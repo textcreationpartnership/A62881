@@ -1,0 +1,2520 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegies on I. Her Late Majesty of blessed memory, II. Late Arch-Bishop of Canterbury, III. Illustrious Duke of Ormond and Earl of Ossory, IV. Countess of Dorset, V. Consolatory poem, &amp;c. together with A poem on the promotion of several eminent persons, &amp;c. / by N. Tate ...</title>
+            <author>Tate, Nahum, 1652-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 104 KB of XML-encoded text transcribed from 69 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62881</idno>
+            <idno type="STC">Wing T183</idno>
+            <idno type="STC">ESTC R768</idno>
+            <idno type="EEBO-CITATION">11945011</idno>
+            <idno type="OCLC">ocm 11945011</idno>
+            <idno type="VID">51314</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51314)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 516:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elegies on I. Her Late Majesty of blessed memory, II. Late Arch-Bishop of Canterbury, III. Illustrious Duke of Ormond and Earl of Ossory, IV. Countess of Dorset, V. Consolatory poem, &amp;c. together with A poem on the promotion of several eminent persons, &amp;c. / by N. Tate ...</title>
+                  <author>Tate, Nahum, 1652-1715.</author>
+               </titleStmt>
+               <extent>[8], 125, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wild ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition.</note>
+                  <note>Each poem, except the first, has special t.p.</note>
+                  <note>Advertisement: p. [1]-[3] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+               <term>Tillotson, John, 1630-1694 --  Poetry.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688 --  Poetry.</term>
+               <term>Ossory, Thomas Butler, --  Earl of, 1634-1680 --  Poetry.</term>
+               <term>Pembroke, Anne Clifford Herbert, --  Countess of, 1590-1676 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51314:1"/>
+            <pb facs="tcp:51314:1" rendition="simple:additions"/>
+            <p>ELEGIES ON
+<list>
+                  <item>I. <hi>Her late</hi> Majeſty <hi>of bleſſed Me<g ref="char:EOLhyphen"/>mory.</hi>
+                  </item>
+                  <item>II. <hi>Late Arch-Biſhop of</hi> Canterbury.</item>
+                  <item>III. <hi>Illuſtrious Duke of</hi> Ormond <hi>and Earl of</hi> Oſſory.</item>
+                  <item>IV. <hi>Counteſs of</hi> Dorſet.</item>
+                  <item>V. <hi>Conſolatory Poem,</hi> &amp;c.</item>
+               </list> Together with A POEM on the PROMOTION of Several Eminent Perſons, <hi>&amp;c.</hi>
+            </p>
+            <p>By <hi>N. TATE,</hi> Servant to His MAJESTY</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Wild,</hi> at the <hi>Elephant</hi> at <hi>Charing-Croſs,</hi> 1699.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:51314:2"/>
+            <pb facs="tcp:51314:2"/>
+            <head>TO HIS Moſt Excellent MAJESTY WILLIAM III: OF Great Britain, France <hi>and</hi> Ireland, <hi>King, Defender of the Faith,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Preſum'd not to preſent Your Ma<g ref="char:EOLhyphen"/>jeſty with this Elegy when it was firſt written, and
+'tis with Relu<g ref="char:EOLhyphen"/>ctance that I now mention the Mourn<g ref="char:EOLhyphen"/>ful Occaſion.</p>
+            <pb facs="tcp:51314:3"/>
+            <p>The Conſternation We then lay Un<g ref="char:EOLhyphen"/>der was Only to be ſupported by, <hi>SIR,</hi> Your own Invincible Spirit.</p>
+            <p>But no leſs Reſolution was neceſſary when the Liberties of <hi>Europe</hi> were reduced to the laſt Extremity, and, her whole Fortune depended, under Heaven, upon Your Majeſties Endea<g ref="char:EOLhyphen"/>vours.</p>
+            <p>Your Majeſty was not only En<g ref="char:EOLhyphen"/>gaged in the nobleſt Cauſe that ever Champion appear'd for, but likewiſe Incumbred with greateſt Difficulties both at Home and Abroad.</p>
+            <p>Such Difficulties as requir'd the moſt Conſummate Qualities of a
+<pb facs="tcp:51314:3"/>Prince and Hero, the utmoſt Efforts of Conduct, Fortitude and Induſtry; And, after all Theſe, the peculiar Protection, Bleſſing, and Favour of Providence; which have been Miraculouſly exerted in Your Majeſty's Preſervation.</p>
+            <p>Your glorious Adventures and Ma<g ref="char:EOLhyphen"/>nagement have, <hi>SIR,</hi> produc'd an ho<g ref="char:EOLhyphen"/>norable and advantageous PEACE; which All <hi>Europe</hi> muſt Eſteem a Hap<g ref="char:EOLhyphen"/>pineſs, if only upon Account of the Dangers to which Your Sacred Perſon was expos'd in War.</p>
+            <p>Neither does the Publick Benefit and Uſefulneſs of Heroick and virtu<g ref="char:EOLhyphen"/>ous Monarchs determine with the Bu<g ref="char:EOLhyphen"/>ſineſs of the Field; The Greatneſs of their Souls exerts it ſelf as gloriouſly in the Diſpenſation of peaceable Go<g ref="char:EOLhyphen"/>vernment:
+<pb facs="tcp:51314:4"/>By promoting advantage<g ref="char:EOLhyphen"/>ous Laws, and above All, by Advance<g ref="char:EOLhyphen"/>ment of Religion and Piety.</p>
+            <p>Your Majeſty's exemplary Zeal on theſe Occaſions have procur'd You the Applauſe of Men and An<g ref="char:EOLhyphen"/>gels.</p>
+            <p>The happy Succeſs of Your Ma<g ref="char:EOLhyphen"/>jeſty's pious Intentions are not only the Prayer, but certain Expectation of all good Men, and will endear Your Name to Poſterity, beyond even Your Own Heroick Adventures and Perfor<g ref="char:EOLhyphen"/>mances.</p>
+            <pb facs="tcp:51314:4"/>
+            <p>
+               <hi>SIR,</hi>
+            </p>
+            <p>I acknowledge my Preſumption in this Addreſs, but caſt my ſelf upon that Clemency which You are pleas'd to diſpenſe even to the meaneſt of Your Subjects, and therefore not to be deſpair'd of, by</p>
+            <closer>
+               <signed>Your Majeſty's <hi>Moſt dutiful Humble Servant,</hi> N. Tate.</signed>
+            </closer>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:51314:5"/>
+                  <pb n="1" facs="tcp:51314:5"/>
+                  <head>MA<g ref="char:V">Ʋ</g>SOLE<g ref="char:V">Ʋ</g>M. A <hi>Funeral Poem</hi> On Our Late Gracious Sovereign Queen MARY, Of Bleſſed Memory.</head>
+                  <lg>
+                     <l>SEE where the Royal <note n="*" place="margin">
+                           <hi>The</hi> Mau<g ref="char:EOLhyphen"/>ſoleum <hi>in</hi> Weſtmi. Abbey.</note> Shrine erected high,</l>
+                     <l>Threatning the Temple's Roof, as That the Sky;</l>
+                     <l>With Starry Lamps and Banners blazing round,</l>
+                     <l>And all the Pageantry of Death is crown'd.</l>
+                     <l>For ah! with flatt'ring Pride and Triumph vain,</l>
+                     <l>Thoſe Pyramids the dazling Pomp ſuſtain;</l>
+                     <l>While High in State their glitt'ring Trophies Riſe,</l>
+                     <l>Low, at their Baſis, <hi>Britain</hi>'s Glory lies.</l>
+                     <pb n="2" facs="tcp:51314:6"/>
+                     <l>Nor Sleep thoſe bleſt Remains, in Dead of Night,</l>
+                     <l>Watcht only by unactive Tapers Light,</l>
+                     <l>For thronging Seraphs, from Coeleſtial Bowr's,</l>
+                     <l>Deſcend to ſtrew the Royal Hearſe with Flow'rs;</l>
+                     <l>What Sov'reign Odour from that Mixture ſprings,</l>
+                     <l>Fann'd and Sublim'd by hov'ring Angels Wings!</l>
+                  </lg>
+                  <lg>
+                     <l>Theſe Rites perform'd, th' <hi>Etherial</hi> Troops re<g ref="char:EOLhyphen"/>ſign</l>
+                     <l>To Forms Divine as Their's, the Royal Shrine.</l>
+                  </lg>
+                  <lg>
+                     <l>For lo! four Matrons, deep in Sables clad,</l>
+                     <l>(Of Solemn Mien, and Aſpect Charming ſad)</l>
+                     <l>Advance; with each Her Enſigns waving high,</l>
+                     <l>The Emblems of Her Pow'r, or Piety.</l>
+                  </lg>
+                  <lg>
+                     <l>Auguſt <hi>BRITTANNIA</hi> the Proceſſion leads;</l>
+                     <l>In State the <hi>BELGIAN</hi> Matron Her ſucceeds.</l>
+                     <l>
+                        <hi>BRITTANNIA</hi>'s Train, in Grandure of a Court,</l>
+                     <l>Her Globe, Her Scepter, and Her Crown ſupport.</l>
+                  </lg>
+                  <pb n="3" facs="tcp:51314:6"/>
+                  <lg>
+                     <l>
+                        <hi>BATAVIA</hi> with Her own Eſcutchion grac't,</l>
+                     <l>Where Lions Rampant graſp Her Arrows ſaſt.</l>
+                     <l>
+                        <note n="*" place="margin">
+                           <hi>Church of</hi> England.</note> 
+                        <hi>Euſebia</hi> next appears, in Pomp divine,</l>
+                     <l>See how Her Mitre, and Her Croſier ſhine!</l>
+                     <l>
+                        <note n="*" place="margin">
+                           <hi>Proteſtant Church of</hi> France.</note> 
+                        <hi>Irene</hi> brings the Rear, —but She, forlorn!</l>
+                     <l>No Badge but of Diſtreſs before Her born.</l>
+                     <l>A Wreath of <hi>Lillies</hi> Her ſad Herald wore,</l>
+                     <l>But <hi>Lillies</hi> Crimſon'd in Her Off-ſpring's Gore!</l>
+                  </lg>
+                  <lg>
+                     <l>Now to their ſundry Stations they diſperſe,</l>
+                     <l>The high arch'd Inlets to the Sov'reign Hearſe;</l>
+                     <l>Where ſolemnly each Matron takes her Stand,</l>
+                     <l>With each a fuming Cenſer in her Hand.</l>
+                     <l>All Mute a while, with awful Sorrow ſtrook,</l>
+                     <l>Till <hi>Belgia</hi> thus in troubled Accents ſpoke.</l>
+                  </lg>
+                  <lg>
+                     <l>Ah how transform'd from what I was of late!</l>
+                     <l>How bleſt, ye Pow'rs, how proſp'rous was my State!</l>
+                     <pb n="4" facs="tcp:51314:7"/>
+                     <l>My flouriſhing Towns with Pleaſure I ſurvey'd,</l>
+                     <l>The World's great Mart and Seat of Commerce made;</l>
+                     <l>Cov'ring with floating Colonies the Main,</l>
+                     <l>While <hi>Gallick</hi> Rage at Home I could ſuſtain;</l>
+                     <l>Viſit both Poles, to Spicy Climates run,</l>
+                     <l>And ſpread my Naval Wings before the riſing Sun.</l>
+                  </lg>
+                  <lg>
+                     <l>No more can populous Towns, or ſwelling Seas,</l>
+                     <l>The ſtronger Deluge of my Grief appeaſe,</l>
+                     <l>My Spicy <hi>Eaſtern</hi> Groves no longer pleaſe.</l>
+                     <l>Matrons ſad Vigils through my Cities keep,</l>
+                     <l>With ſtreaming Tears my Saylors ſwell the Deep;</l>
+                     <l>There <hi>Tritons,</hi> ſtarted from their Coral Cells,</l>
+                     <l>Rang'd on the Rocks, to <hi>Dirges</hi> tune their Shells:</l>
+                     <l>On ſep'rate Cliffs their penſive <hi>Nereids</hi> ſit,</l>
+                     <l>No chearful Song or am'rous Glance admit;</l>
+                     <l>No more with Pearl and Amber deck their Head,</l>
+                     <l>But Mourn, forlorn, their <hi>Amphitrite</hi> Dead,</l>
+                     <l>From Dawn to Dusk, and weep the Stars to Bed.</l>
+                  </lg>
+                  <pb n="5" facs="tcp:51314:7"/>
+                  <lg>
+                     <l>Ye Winds, that waft my freighted Fleets away,</l>
+                     <l>Neglect your Charge; let uſeleſs Traffick ſtay</l>
+                     <l>Till you to <hi>Java</hi>'s Iſle my Sighs convey.</l>
+                     <l>Fate's Triumph over Nature there proclaim,</l>
+                     <l>And ſay, <hi>MARIA</hi>'s nothing but a Name!</l>
+                     <l>A Hearſe, an Urn, as Vulgar Mortals are;</l>
+                     <l>To Earth no more, —but to the Skies a <hi>Star.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>She ſaid—<hi>IRENE</hi> next her Plaints addreſt,</l>
+                     <l>Plaints, which her Looks too ſenſibly expreſt:</l>
+                     <l>(An Exile from her Native Shore ſhe fled,</l>
+                     <l>By Innocence and Mourning Angels led)</l>
+                     <l>A pearly Show'r Her fairer Face bedews,</l>
+                     <l>While Thus, what Paſſion dictates, She purſues.</l>
+                  </lg>
+                  <lg>
+                     <l>Inſtruct me, Grief, unable to ſuſtain</l>
+                     <l>Thy preſſing Weight; to whom ſhall I Complain?</l>
+                     <l>To Earth or Skies?—'Tis they that have Engroſs'd.</l>
+                     <l>'Tis they that ſhare the Treaſure I have loſt.</l>
+                     <pb n="6" facs="tcp:51314:8"/>
+                     <l>To Seas? — 'There <hi>Thetis</hi> Comfortleſs appears,</l>
+                     <l>And for <hi>Her Self</hi> reſerves the Ocean's Tears.</l>
+                     <l>To gentle Winds and Air if I Complain,</l>
+                     <l>They can but Sigh, and Sigh like me in Vain!</l>
+                     <l>Nature Replies, when her Relief I try,</l>
+                     <l>That She has loſt, and grieves as much as I.</l>
+                     <l>Or would I to <hi>MARIA</hi>'s ſelf Addreſs,</l>
+                     <l>(The Royal Refuge of my paſt Diſtreſs)</l>
+                     <l>The Queen of Pity I no longer find</l>
+                     <l>Enthron'd, but here (ah! fatal Change) Enſhrin'd.</l>
+                     <l>High rapt in heav'n'y Bow'rs Her Soul remains,</l>
+                     <l>Her breathleſs Reliques a deaf Tomb contains.</l>
+                  </lg>
+                  <lg>
+                     <l>Ye happier Rivals in our Common Grief!</l>
+                     <l>You Mourn, but not like me, without Relief.</l>
+                     <l>
+                        <hi>Britain</hi> and <hi>Belgia</hi> through the Main can roam,</l>
+                     <l>Enrich'd with Treaſures of Both <hi>Indies</hi> come,</l>
+                     <l>And, like an Altar, deck <hi>MARIA</hi>'s Tomb.</l>
+                     <pb n="7" facs="tcp:51314:8"/>
+                     <l>Her Hierarchy does fair <hi>Euſebia</hi> bleſs,</l>
+                     <l>Secure She does Her ſacred Rights poſſeſs,</l>
+                     <l>And ſtores of grateful Incenſe can addreſs.</l>
+                     <l>What Tribute to Her Aſhes can I give,</l>
+                     <l>Who only did by Her Indulgence live?</l>
+                     <l>A Wretche's laſt Reſerve I will beſtow,</l>
+                     <l>My Tears—but ſee—They, uncommanded, ſlow!</l>
+                     <l>Like Weeping <hi>Niobe</hi>'s their Steams renew:</l>
+                     <l>O that, like Her, I could turn Marble too!</l>
+                  </lg>
+                  <lg>
+                     <l>She ceas'd—<hi>EVSEBIA</hi> then her Starry Head</l>
+                     <l>With mournful Grace unveil'd, and, ſighing, ſaid.</l>
+                  </lg>
+                  <lg>
+                     <l>If Strangers can ſuch deep Concern expreſs,</l>
+                     <l>What Accents will ſuffice for my Diſtreſs!</l>
+                     <l>Of theſe Remains can I ſuſtain the Sight,</l>
+                     <l>Who claim a Subject's and a Daughter's Right;</l>
+                     <l>Nurs'd with her warmeſt Beams, whoſe Luſtre fill'd</l>
+                     <l>My Front with Stars, and did my Mitre gild.</l>
+                     <pb n="8" facs="tcp:51314:9"/>
+                     <l>
+                        <hi>Eve,</hi> new created, no ſuch Pleaſure took</l>
+                     <l>Her own bright Form diſcov'ring in the Brook;</l>
+                     <l>And, whereſoe're Her raviſh'd Eyes She threw,</l>
+                     <l>Still to have blooming Paradiſe in View.</l>
+                     <l>So I at my own Happineſe admir'd—</l>
+                     <l>Ah where are now thoſe golden Dreams retir'd?</l>
+                     <l>Their faint Idea my ſick Thought employs,</l>
+                     <l>A cold Remembrance of departed Joys.</l>
+                  </lg>
+                  <lg>
+                     <l>As Ship-wreckt Mariners, on ſome bleak Shoar,</l>
+                     <l>The Riches of their periſht Freight deplore,</l>
+                     <l>Let me, the Treaſure I have loſt, declare,</l>
+                     <l>Too vaſt for Time and Nature to Repair.</l>
+                  </lg>
+                  <lg>
+                     <l>Be huſht ye Winds, ye Skies ſerene and clear,</l>
+                     <l>No lowring Cloud or angry Wave appear,</l>
+                     <l>While my <hi>MARIA</hi>'s Virtues I recite:</l>
+                     <l>O were my Language like Her Virtues, Bright</l>
+                     <l>The Charming Sounds wou'd Gueſts from Hea'vn invite.</l>
+                     <pb n="9" facs="tcp:51314:9"/>
+                     <l>Heav'n wou'd be Here, and with Immortal Lays,</l>
+                     <l>My ſelf a <hi>Seraph,</hi> while I Sung her Praiſe.</l>
+                  </lg>
+                  <lg>
+                     <l>What ancient Poets did, inſpir'd, aver</l>
+                     <l>Of <hi>Female</hi> worth, was <hi>Prophecy</hi> of Her;</l>
+                     <l>And what their Age by Revelation ſaw,</l>
+                     <l>Poſterity muſt from Her Story draw.</l>
+                  </lg>
+                  <lg>
+                     <l>Her Breaſt each cent'ring Excellence cou'd boaſt,</l>
+                     <l>The ſcatter'd Virtues of Her Sex engroſt;</l>
+                     <l>Nor did thoſe Beams on Her refracted Fall,</l>
+                     <l>She All poſſeſt, and in Perfection All.</l>
+                     <l>Cou'd Majeſty and Mildneſs reconcile,</l>
+                     <l>Hold Sov'raign Awe, yet on Her Subjects ſmile.</l>
+                  </lg>
+                  <lg>
+                     <l>Nor only Calm, but Conſtant was Her Mind,</l>
+                     <l>Fix'd as the Centre to Earth's Globe aſſign'd:</l>
+                     <l>A Fortreſs which the Fates in vain aſſail'd,</l>
+                     <l>And where the baffled King of Terrors fail'd.</l>
+                  </lg>
+                  <pb n="10" facs="tcp:51314:10"/>
+                  <lg>
+                     <l>Chearful as Angels, or the Springing Day</l>
+                     <l>That tunes the Groves, and makes the Meadows gay.</l>
+                     <l>For blameleſs Mirth Heaven's Off-ſpring is confeſt,</l>
+                     <l>And Heav'n was ever in <hi>MARIA</hi>'s Breaſt.</l>
+                  </lg>
+                  <lg>
+                     <l>Her Words and Actions, all exactly weigh'd</l>
+                     <l>In Reaſon's Scale, and by Diſcretion ſway'd,</l>
+                     <l>Alike from Prejudice and Paſſion free,</l>
+                     <l>Henceforth of Prudence ſhall the <hi>Standart</hi> be.</l>
+                  </lg>
+                  <lg>
+                     <l>Let Heav'n (with Heav'n ſhe correſpondence held)</l>
+                     <l>Say how my Saint in Piety excell'd.</l>
+                     <l>Its ſinking Empire how She did ſupport,</l>
+                     <l>And to a Sanctu'ry reform'd a Court.</l>
+                     <l>Say, how Her bright Example cou'd diſarm</l>
+                     <l>Eſtabliſh'd Vice, and make Religion Charm.</l>
+                     <l>What frequent Viſits to my Temple pay,</l>
+                     <l>And there Inſtruct Devotion how to Pray.</l>
+                     <pb n="11" facs="tcp:51314:10"/>
+                     <l>Where thronging Cherubs did Her Zeal attend,</l>
+                     <l>Ambitious who ſhould with Her Vows aſcend.</l>
+                  </lg>
+                  <lg>
+                     <l>But Charity, Her Souls eſſential Grace,</l>
+                     <l>In tend'reſt Strokes was pictur'd in Her Face,</l>
+                     <l>Who like an Angel cou'd at Suff'rings melt,</l>
+                     <l>Condole the Mis'ry She had never felt.</l>
+                     <l>Reliev'd, till Royal Bounty She had drein'd,</l>
+                     <l>Then with Her Tears th'exhauſted Store maintain'd,</l>
+                     <l>Kind as the Pelican, in Times of Need,</l>
+                     <l>When for Her craving Off-ſpring She does bleed.</l>
+                  </lg>
+                  <lg>
+                     <l>Such was my Sov'reign! Such, and yet expir'd!</l>
+                     <l>To Earth ſo needful, yet from Earth retir'd.</l>
+                     <l>Yet ſee! No wreck of Elements is found;</l>
+                     <l>Time journeys on, and Nature keeps her Round:</l>
+                     <l>Our Vales may bloom again, our Groves be green,</l>
+                     <l>No more the Goddeſs of the Spring be ſeen!</l>
+                     <pb n="12" facs="tcp:51314:11"/>
+                     <l>She's fled! Divine <hi>MARIA</hi>'s vaniſht hence,</l>
+                     <l>And ſleeps with Queens of common Providence.</l>
+                     <l>Like Them, She has to Fate reſign'd Her Breath;</l>
+                     <l>O Triumph of the Grave! O Pomp of Death!</l>
+                     <l>With Her entomb'd—</l>
+                     <l>Youth, Beauty, Vertue, their Interment have,</l>
+                     <l>O Pomp of Death! O Tryumph of the Grave!</l>
+                  </lg>
+                  <lg>
+                     <l>Yet Tyrants live, ah! What can Reaſon ſay?</l>
+                     <l>They keep their Thrones, who Iron Scepters ſway,</l>
+                     <l>Support me Faith; if Faith too feeble be,</l>
+                     <l>Support my Faith <hi>MARIA</hi>'s Piety.</l>
+                  </lg>
+                  <lg>
+                     <l>She pauz'd, and wept.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>BRITANNIA,</hi> tho' with equal Grief oppreſt;</l>
+                     <l>Majeſtick, thus her Oriſons addreſt.</l>
+                  </lg>
+                  <lg>
+                     <l>Hail Saint and Queen,—too weak alas that Style!</l>
+                     <l>Hail Heroin and Goddeſs of our Iſle!</l>
+                     <pb n="13" facs="tcp:51314:11"/>
+                     <l>My <hi>Pallas,</hi> who cou'd abſent <hi>Mars</hi> ſupply;</l>
+                     <l>And, <hi>Jove</hi> withdrawn, like <hi>Juno</hi> rule the Sky.</l>
+                  </lg>
+                  <lg>
+                     <l>Empire She priz'd not, tho' to Empire born,</l>
+                     <l>Nor ſought the Pow'r She cou'd ſo well adorn:</l>
+                     <l>Yet held Her Brittiſh Throne ſecurely calm,</l>
+                     <l>As <hi>Deborah</hi> within her Grove of Palm;</l>
+                     <l>From whoſe orac'lous Shade ſhe did preſcribe,</l>
+                     <l>And Audience gave to each conſulting Tribe,</l>
+                     <l>My <hi>Regent</hi> with ſuch Grandeur, ſuch Addreſs,</l>
+                     <l>In Councel ſway'd; and preſt with laſt Diſtreſs,</l>
+                     <l>Like Her, <hi>Spoke</hi> Victory, and <hi>Look'd</hi> Succeſs.</l>
+                     <l>In publick Storms She heard the Billows rave,</l>
+                     <l>And cheerfully the needfull Orders gave.</l>
+                     <l>With pious Hope adjuſted Her Commands,</l>
+                     <l>And left th'Event on Providences Hands.</l>
+                  </lg>
+                  <lg>
+                     <l>She knew what Mein the Sceptre, Crown and Globe,</l>
+                     <l>What Majeſty became th' Imperial Robe;</l>
+                     <pb n="14" facs="tcp:51314:12"/>
+                     <l>But from th' Incumbrance freed of Sov'reign Awe,</l>
+                     <l>What Artiſt can Her milder Beauties draw?</l>
+                     <l>What Colours ſhall expreſs? What Pencil trace</l>
+                     <l>The Charms that did Her Converſation grace?</l>
+                     <l>How beaming Joys Her Aſpect did adorn,</l>
+                     <l>And how She mov'd the Goddeſs of the Morn.</l>
+                     <l>What Harmony did in Her Language dwell;</l>
+                     <l>How ſullen Griefs Her Accents cou'd diſpell,</l>
+                     <l>While ſofter They than ſhedding Roſes fell.</l>
+                  </lg>
+                  <lg>
+                     <l>Methinks I hear lamenting <hi>April</hi> ſay,</l>
+                     <l>Unwelcome now returns my lateſt <note n="*" place="margin">The Queen's Birth-Day.</note> Day,</l>
+                     <l>That once eclips'd the blooming Pride of <hi>May.</hi>
+                     </l>
+                     <l>The Day that with auſpicious Hours did ſmile,</l>
+                     <l>And gave a Jubilee to <hi>Britain</hi>'s Iſle.</l>
+                     <l>No more than Feſtival ſhall entertain</l>
+                     <l>The Court with Revel or harmonious Strain:</l>
+                     <l>For chearfull Songs, my Bards muſt now retreat,</l>
+                     <l>And <hi>Dirges</hi> breath to ſome forſaken Seat.</l>
+                     <pb n="15" facs="tcp:51314:12"/>
+                     <l>Seek gloomy Vales, where blaſted Nature pines,</l>
+                     <l>And Grief with Night in cold Embraces joyns.</l>
+                  </lg>
+                  <lg>
+                     <l>Let there, what never muſt in Crouds be told,</l>
+                     <l>Your mourning Muſe that Diſmal Scene unfold!</l>
+                     <l>Let Fancy there rehearſe in wild Complaint,</l>
+                     <l>The ſickning Sov'reign, the expiring Saint.</l>
+                     <l>When Sacrilegious Maladies, combin'd,</l>
+                     <l>Beauty's Imperial Temple undermin'd.</l>
+                     <l>How ravaging through Her rich Veins they flew,</l>
+                     <l>Till all in one-Aſſault—</l>
+                     <l>Againſt Her gen'rous Heart their Forces drew.</l>
+                     <l>While Nature cou'd no more the Fort ſupply,</l>
+                     <l>And vanquiſht Art it ſelf ſtood Sighing by.</l>
+                  </lg>
+                  <lg>
+                     <l>Well may his Sons deſpair, when <note n="*" place="margin">The glo<g ref="char:EOLhyphen"/>my wea<g ref="char:EOLhyphen"/>ther in the Queen's ſickneſs.</note> 
+                        <hi>Phoebus</hi> ſhrouds</l>
+                     <l>His baffl'd Head, and ſculks in conſcious Clouds</l>
+                     <l>Drives wide his Wain, ſhuns his Meridian <hi>Way,</hi>
+                     </l>
+                     <l>And through continu'd Darkneſs <hi>ſteals</hi> the Day.</l>
+                  </lg>
+                  <pb n="16" facs="tcp:51314:13"/>
+                  <lg>
+                     <l>Immortal Pow'rs, can you behold, ungriev'd,</l>
+                     <l>Her Agonies, who Nations had reliev'd?</l>
+                     <l>Amidſt Her Pangs, ſee how She lies reſign'd</l>
+                     <l>To your Diſpoſal, while you ſeem unkind!</l>
+                     <l>Undaunted, yet to your Allegiance true,</l>
+                     <l>Bids Death Defiance, but ſubmits to You.</l>
+                     <l>She ſees Diſtraction through Her Palace ſpread,</l>
+                     <l>She ſees the Graces weeping round Her Bed,</l>
+                     <l>Yet ſtill Compos'd; till Her expiring Sight</l>
+                     <l>Her ſwooning Hero.— Here let deepeſt Night</l>
+                     <l>Her Mantle ſpread, and Nature's Face diſguiſe,</l>
+                     <l>While <hi>Caeſar</hi> ſinks, and while <hi>MARIA</hi>'s Eyes</l>
+                     <l>Cloſing transferr Their Glories to the Skies.</l>
+                     <l>Oh what Convulſions now ſhook <hi>Britain</hi>'s Breaſt!</l>
+                     <l>Her Sun and Moon in one Eclipſe oppreſt.</l>
+                  </lg>
+                  <lg>
+                     <l>Yet, O <hi>Alcides</hi> of our Age, ſuſtain</l>
+                     <l>Thy laſt and greateſt Task to Live and Reign!</l>
+                     <pb n="17" facs="tcp:51314:13"/>
+                     <l>This Conqueſt muſt Diſtinguiſh your bright Name,</l>
+                     <l>And write You Foremoſt in the Liſt of Fame.</l>
+                  </lg>
+                  <lg>
+                     <l>Death ne're is Diſtant when Perfection's near;</l>
+                     <l>Vertue <hi>Sublim'd</hi> will quickly diſappear.</l>
+                     <l>
+                        <hi>MARIAS</hi>'s fall'n! Worthy to have ſurviv'd,</l>
+                     <l>Till <hi>Caeſar</hi>'s promis'd Triumphs were arriv'd;</l>
+                     <l>Till harras'd <hi>Europe</hi>'s Freedom She ſurvey'd,</l>
+                     <l>And crown'd the Haleyon Days for which She pray'd</l>
+                     <l>Speak You, who Commerce with Immortals hold</l>
+                     <l>Theſe Labarynths of Providence unfold!</l>
+                     <l>
+                        <hi>Euſebia</hi> ſpeak.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>E<g ref="char:V">Ʋ</g>SEBIA</hi>'s Sacred Breaſt.</l>
+                     <l>With Rapture fill'd, inſpiring Zeal confeſt,</l>
+                     <l>Divinely bright Her Frontlet Stars appear'd,</l>
+                     <l>While up tow'rds Heav'n Her raviſh'd Eyes She rear'd</l>
+                     <l>The Temple ſhakes, the yielding Roof gives way,</l>
+                     <l>And Ope's a Proſpect to Eternal Day.</l>
+                     <pb n="18" facs="tcp:51314:14"/>
+                     <l>Through all the Dome Ambroſial Fragrance ſpread,</l>
+                     <l>While Thus, in Extaſie, the Matron ſaid;</l>
+                  </lg>
+                  <lg>
+                     <l>With Robes inveſted of Caeleſtial Dye,</l>
+                     <l>She towrs and treads the Empyraean Sky!</l>
+                     <l>Angelick Choirs, skill'd in triumphant Song,</l>
+                     <l>Heav'ns Battlements and Chryſtal Turrets throng.</l>
+                     <l>The Signal's giv'n, th' Eternal Gates unfold,</l>
+                     <l>Blazing with Jaſper, wreath'd in burniſh'd Gold,</l>
+                     <l>From Bow'rs of <hi>Amaranth</hi> and <hi>Nectar</hi> Streams,</l>
+                     <l>(Manſions of Rapture and inſpiring Dreams)</l>
+                     <l>The Hoſt of Saints <hi>MARIA</hi>'s Tryumph meet,</l>
+                     <l>
+                        <hi>MARIA,</hi> All, their own <hi>MARIA</hi> greet.</l>
+                  </lg>
+                  <lg>
+                     <l>Behold! a Rev'rend <hi>Shade</hi> ſteps forth, his Head</l>
+                     <l>
+                        <hi>Mitred</hi> in Glory, deep his Veſtments ſpread;</l>
+                     <l>O Patriarch mild! Thy Aſpect ſtill I know,</l>
+                     <l>That ev'n on Earth ſo much of Heavn'n did ſhow.</l>
+                     <pb n="19" facs="tcp:51314:14"/>
+                     <l>Heav'ns Meſſenger to Us Thou firſt didſt prove,</l>
+                     <l>And now <hi>MARIA</hi>'s to the Bleſt above.</l>
+                  </lg>
+                  <lg>
+                     <l>Now, pointing up, he ſhews, prepar'd on High,</l>
+                     <l>Her Chair of State and Starry Canopy,</l>
+                     <l>She takes Her Throne, but there inſtall'd, ſo bright</l>
+                     <l>Her Form, I loſe Her in <hi>Exceſs</hi> of <hi>Light.</hi>
+                     </l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:51314:15"/>
+                  <pb facs="tcp:51314:15"/>
+                  <p>AN ELEGY ON THE Moſt Reverend Father in God HIS GRACE JOHN, LATE Lord Arch-Biſhop of <hi>Canterbury.</hi>
+                  </p>
+                  <p>
+                     <hi>Written in the Year,</hi> 1693.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:51314:16"/>
+                  <pb facs="tcp:51314:16"/>
+                  <head>To the Moſt Reverend Father in God His GRACE THOMAS Lord Arch-Biſhop of CANTERBURY.</head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>THIS Tribute of my Muſe, in Me<g ref="char:EOLhyphen"/>mory of Your Grace's worthy Pre<g ref="char:EOLhyphen"/>deceſſor, was favourably accepted by many Eminent Perſons, and particularly by Your Grace.</p>
+                  <p>Zeal and Affection ſupply'd my want of Genius; at leaſt Your paſſionate Reſpect for
+<pb facs="tcp:51314:17"/>ſo dear a Friend, inclin'd Your Indulgence to my Performance.</p>
+                  <p>Our Loſs in that excellent Patriarch, was juſtly lamented; but the ſame <hi>Royal Choice</hi> that had ſo well provided for our Church, has once more approv'd it ſelf in ſupplying her Paſtoral Chair.</p>
+                  <p>His Majeſty was truly ſenſible what Mode<g ref="char:EOLhyphen"/>ration of Temper, what Integrity of Heart and Piety of Mind; what Judgment and Conſtancy were requiſite for ſo Sacred an Office, and ſo exalted a Station.</p>
+                  <p>
+                     <hi>My Lord,</hi>
+                  </p>
+                  <p>If Panegyrick were (as it never was) my Talent, I ſhould decline it in Your Grace's Preſence.</p>
+                  <p>Great Souls are leaſt delighted with their own Praiſes, and the Pious (even in Places of higheſt Dignity) are Ambitious of no other Encomiums than the private Teſti<g ref="char:EOLhyphen"/>mony
+<pb facs="tcp:51314:17"/>of their own Conſcience. But even to That I can appeal for the Sincerity of Your Grace's Deſigns and Endeavours for the real Intereſts both of our <hi>Church</hi> and <hi>State.</hi>
+                  </p>
+                  <p>They are ſo unfeignedly the Motives and Meaſures of all Your Counſils and Actions, that every Engliſh-Man and Well-wiſher to his Countrey has a Right of ſpeaking his thankfull Acknowledgments, and, amongſt the Reſt,</p>
+                  <closer>
+                     <salute>My Lord,</salute>
+                     <signed>
+                        <hi> Your Grace's Moſt Humble Servant,</hi> N. Tate.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:51314:18"/>
+                  <pb n="27" facs="tcp:51314:18"/>
+                  <head>AN ELEGY On His GRACE JOHN Late Lord Arch-Biſhop of <hi>CANTERB<g ref="char:V">Ʋ</g>RY.</hi>
+                  </head>
+                  <lg>
+                     <l>Complaints, like Ours, in <hi>Ramah</hi>'s Vale were heard,</l>
+                     <l>When <hi>Samuel</hi>'s Awful Reliques were in<g ref="char:EOLhyphen"/>terr'd.</l>
+                     <l>Like Him, by Heav'n approv'd, and Earth admir'd.</l>
+                     <l>Our Age's greateſt Prophet is Expir'd!</l>
+                  </lg>
+                  <lg>
+                     <l>Juſt Honours to his Sepulchre we'll pay,</l>
+                     <l>But ſome kind Seraph muſt inſtruct the way.</l>
+                     <pb n="28" facs="tcp:51314:19"/>
+                     <l>A Garland for his Marble we'll compoſe</l>
+                     <l>Of <hi>Syrian</hi> Lillies, and the <hi>Sharon</hi> Roſe:</l>
+                     <l>
+                        <hi>Arabia</hi>'s Spice in one rich Pile ſhould flame,</l>
+                     <l>And <hi>Gilead</hi>'s Balm, leſs precious than his Name.</l>
+                  </lg>
+                  <lg>
+                     <l>But when the Treaſures of the <hi>Eaſt</hi> are ſpent</l>
+                     <l>In pious Off-rings at his Monument,</l>
+                     <l>All Rites perform'd that to his Urn belong,</l>
+                     <l>To whom ſhall Fame entruſt the Fun'ral Song?</l>
+                  </lg>
+                  <lg>
+                     <l>The Graces Speechleſs to his Shrine repair,</l>
+                     <l>Ev'n Art and Wit ſtand ſilent Mourners There;</l>
+                     <l>Yet bolder <hi>Zeal</hi> will Bands of Duty break,</l>
+                     <l>And <hi>Gratitude</hi> be priviledg'd to ſpeak.</l>
+                     <l>True Paſſion too can Inſpiration bring,</l>
+                     <l>'Twas Grief firſt taught the Nightingal to ſing;</l>
+                     <l>From His, as from <hi>Elijah</hi>'s pow'rful Tomb,</l>
+                     <l>Ev'n my dead Muſe ſhall vital Warmth reſume.</l>
+                     <pb n="29" facs="tcp:51314:19"/>
+                     <l>Hark! From on high I hear a Seraph ſay,</l>
+                     <l>Hence ye unhallow'd, for my Charge make way:</l>
+                  </lg>
+                  <lg>
+                     <l>The Crow'd retire—a Matron ſtreight appears,</l>
+                     <l>Stars on her Head, her Face bedew'd with Tears,</l>
+                     <l>How charming are her Looks—</l>
+                     <l>Tho' doubly now oppreſt with Grief and Years!</l>
+                     <l>Divine <note n="*" place="margin">The Church of <hi>England.</hi>
+                        </note> 
+                        <hi>Euſebia,</hi> tho' in Sables dreſt,</l>
+                     <l>Is ſtill by her Angelick Mein confeſt.</l>
+                     <l>Charm'd with her Voice the liſtning Winds repair,</l>
+                     <l>While Thus her balmy Sighs perſume the Air.</l>
+                  </lg>
+                  <lg>
+                     <l>Pity me, Heav'n, for your All-ſearching Eye</l>
+                     <l>Can only to my Grief's deep Centre pry.</l>
+                     <l>Behold me, once of Mothers the moſt bleſt,</l>
+                     <l>Of Mourning Mothers now the moſt diſtreſt!</l>
+                     <l>Compell'd my Temple's Glory to reſign,</l>
+                     <l>My SUN extinguiſh'd, who with Rays divine</l>
+                     <l>Blaz'd out, and taught my Younger Stars to Shine.</l>
+                     <pb n="30" facs="tcp:51314:20"/>
+                     <l>My Pow'rful <hi>Pan,</hi> my ruling Paſtor's dead,</l>
+                     <l>Whoſe Pious Care my Flocks and Shepherds fed.</l>
+                     <l>When mighty Realms enſlav'd to Error lay,</l>
+                     <l>And Empires ſtoop'd to Myſtick <hi>Babel</hi>'s ſway,</l>
+                     <l>Then could I boaſt, ſuch was my Patriarch's Care,</l>
+                     <l>To ſhew th' Apoſtate World an Apoſtolick Chair.</l>
+                     <l>To Envy I appeal (for we may truſt</l>
+                     <l>Envy her ſelf with ſuch Religious Duſt)</l>
+                     <l>If ever Guide with more Reluctance took,</l>
+                     <l>Or manag'd with more Skill my Ruling Crook.</l>
+                     <l>A Crook, that once committed to <hi>His</hi> Hand,</l>
+                     <l>Wrought Miracles, and <hi>bloom'd</hi> like <hi>Aaron</hi>'s Wand.</l>
+                     <l>Endu'd with Power to work my Flocks Increaſe,</l>
+                     <l>And charm Contending Shepherds into Peace:</l>
+                     <l>Nor wily <hi>Jacob</hi>'s Myſtick Arts of old,</l>
+                     <l>Prevail'd with ſuch Succeſs on <hi>Laban</hi>'s Fold,</l>
+                     <l>As his unblemiſh'd open Life, to gain</l>
+                     <l>The Separating Straglers of the Plain.</l>
+                     <pb n="31" facs="tcp:51314:20"/>
+                     <l>Matrons Abroad, for Reformation fam'd,</l>
+                     <l>From Superſtitious Vanities reclaim'd,</l>
+                     <l>My Temple's Ancient Honour ſaw Renew'd,</l>
+                     <l>And bleſs'd my Stars, and for my Friendſhip ſu'd.</l>
+                     <l>On Me theſe Bleſſings my kind Saint conferr'd;</l>
+                     <l>Tranſporting Bleſſings!—but, with Him, interr'd.</l>
+                     <l>With faint Delight ſhall I my Vintage preſs,</l>
+                     <l>Liſtleſs the Harveſt of his Toils poſſeſs,</l>
+                     <l>Bereav'd of Him who did my Comforts bleſs.</l>
+                     <l>As <hi>Iſrael</hi>'s Guide from <hi>Piſgah</hi>'s Mount withdrew,</l>
+                     <l>The Deſart paſs'd, and promis'd Land in view;</l>
+                     <l>To ſuch rebated Joys my Tribes are led,</l>
+                     <l>
+                        <hi>Canaan</hi> in Proſpect, but their Leader dead!</l>
+                     <l>How ſhort-liv'd was the Tranſport I poſſeſt,</l>
+                     <l>For which with Tears I had ſo oft addreſt!</l>
+                     <l>For This did Saints and Angels long intreat,</l>
+                     <l>And <hi>Caeſar</hi> court him to my Paſt'ral Seat?</l>
+                     <pb n="23" facs="tcp:51314:21"/>
+                     <l>Approach my Sons, with Me approach his Shrine;</l>
+                     <l>In One Condoling Dirge your Voices join;</l>
+                     <l>Your <hi>Albion</hi> Rocks with theſe ſad Accents rend,</l>
+                     <l>
+                        <hi>We have a</hi> Father <hi>Loſt, Mankind a</hi> Friend.</l>
+                  </lg>
+                  <lg>
+                     <l>Thus mourn'd the Matron, and with Sighs oppreſt</l>
+                     <l>His Sacred Urn embracing, Wept the Reſt.</l>
+                  </lg>
+                  <lg>
+                     <l>With no leſs Paſſion <hi>Britain</hi>'s State Complain'd;</l>
+                     <l>No leſs the Loſs that <hi>Britain</hi>'s State ſuſtain'd.</l>
+                  </lg>
+                  <lg>
+                     <l>When threatning Danger did the Realm ſurprize,</l>
+                     <l>Not <hi>Homer</hi>'s <hi>Neſtor</hi> could, like Him, Adviſe.</l>
+                     <l>His Words, as if inſpir'd, Impreſſion made,</l>
+                     <l>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>lyſſe</hi>'s Skill, without his Craft, diſplay'd:</l>
+                     <l>His Counſels ne're were varniſh'd o'er with Art:</l>
+                     <l>With Policy He ſtill did Truth impart;</l>
+                     <l>Spoke Oracles,—but always ſpoke his Heart.</l>
+                  </lg>
+                  <pb n="33" facs="tcp:51314:21"/>
+                  <lg>
+                     <l>No paſſive <hi>Gorgon</hi> did his Reaſon charm,</l>
+                     <l>To hang dead Weights on our Reſtorer's Arm:</l>
+                     <l>His Meaſures He from ſacred Sanctions drew,</l>
+                     <l>To Heav'n and to his Countries Int'reſt, true,</l>
+                     <l>Hence, by reſpect to Him, her Friends were known;</l>
+                     <l>And ſhe diſcover'd in His Foes her own.</l>
+                  </lg>
+                  <lg>
+                     <l>When firſt in <hi>Learning</hi>'s Orb His Luſtre blaz'd,</l>
+                     <l>The World look'd up, tranſported and amaz'd;</l>
+                     <l>Nor leſs ſurpriz'd, bewail his Beams withdrawn,</l>
+                     <l>Penſive and hopeleſs of another Dawn.</l>
+                     <l>So, pleas'd and wondring, our great Parent view'd</l>
+                     <l>The firſt day's Sun, and with charm'd Eyes purſu'd;</l>
+                     <l>And when from Sight the ſetting Lamp withdrew,</l>
+                     <l>So He out-wept the Night's diſtilling Dew;</l>
+                     <l>In ſable Shades, Grief's Vigil kept untir'd,</l>
+                     <l>With Looks ſtill <hi>Weſtward</hi> fix'd, where Day expir'd.</l>
+                  </lg>
+                  <pb n="34" facs="tcp:51314:22"/>
+                  <lg>
+                     <l>The <hi>Labyrinths</hi> of Knowledge He deſcry'd,</l>
+                     <l>With REASON like a <hi>Sibyl</hi> for his Guide,</l>
+                     <l>And with Her Oracles divinely bleſt,</l>
+                     <l>As happily her Dictates he expreſt.</l>
+                  </lg>
+                  <lg>
+                     <l>His pow'rful <hi>Style</hi> an artfull Nature grac't;</l>
+                     <l>Expreſſive words and all with Judgment plac't;</l>
+                     <l>Hence they, like choſen well-rank'd Troops prevail'd,</l>
+                     <l>And through the Hearer's Ear his Soul aſſail'd.</l>
+                     <l>His Eloquence was neither coarſe nor vain,</l>
+                     <l>From Arrogance and Stiffneſs did refrain,</l>
+                     <l>Courtly Familiar, and Majeſtick Plain.</l>
+                     <l>Extenſive Senſe He into compaſs drew,</l>
+                     <l>Said what was Juſt, and always ſomething <hi>New;</hi>
+                     </l>
+                     <l>That did ſurprizingly our Souls delight,</l>
+                     <l>As ſov'reign Beauty conquers at firſt Sight.</l>
+                  </lg>
+                  <lg>
+                     <l>He, thus compleatly Arm'd for Truth's Defence</l>
+                     <l>His pious Warfare early did commence.</l>
+                  </lg>
+                  <pb n="35" facs="tcp:51314:22"/>
+                  <lg>
+                     <l>Gigantick <hi>Atheiſm</hi> firſt His Vigour try'd,</l>
+                     <l>A daring Foe that Heav'n it ſelf defy'd:</l>
+                     <l>Ev'n Hell at firſt this Monſter's Brood diſclaim'd,</l>
+                     <l>Nor one fall'n Angel knew for <hi>Atheiſm</hi> damn'd,</l>
+                     <l>But Earth, more impious than the Realms of Night,</l>
+                     <l>Sent Hell a Race of Fiends that did her Furies fright.</l>
+                     <l>Ah ſtupid Crew! Who Reaſon wou'd employ</l>
+                     <l>Eternal Reaſon's Eſſence to deſtroy!</l>
+                     <l>The Fable's now to impious Practice grown,</l>
+                     <l>Theſe Sons of Earth wou'd Heav'ns true <hi>Jove</hi> de<g ref="char:EOLhyphen"/>throne.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Rome</hi>'s Dragon next our Champion did engage,</l>
+                     <l>The ſame that dar'd of old th' Arch-Angel's Rage.</l>
+                     <l>And fluſh'd once more with Arbitrary Pow'r,</l>
+                     <l>Waited <hi>Euſebia</hi>'s Off-ſpring to devour:</l>
+                     <l>But, when his Torrent-Pride did higheſt ſwell,</l>
+                     <l>Confronted by this ſecond <hi>Michael,</hi> ſell.</l>
+                     <pb n="36" facs="tcp:51314:23"/>
+                     <l>And when at laſt he ſaw (as 'twas but Juſt,</l>
+                     <l>The Champion with his reſcu'd Charge to Truſt)</l>
+                     <l>
+                        <hi>Euſebia</hi>'s Altars made His Guardian care,</l>
+                     <l>With jaws expanded, through the blaſted Air,</l>
+                     <l>Belch'd Curſes, the laſt Refuge of Deſpair.</l>
+                  </lg>
+                  <lg>
+                     <l>Theſe Monſters quell'd, no <hi>Sphinx</hi> or <hi>Hydra</hi> roſe,</l>
+                     <l>But whom He did with like Succeſs oppoſe.</l>
+                  </lg>
+                  <lg>
+                     <l>Then, as firſt Heroes <hi>doubly</hi> gain Applauſe,</l>
+                     <l>By Conqueſts, and preſcribing righteous Laws;</l>
+                     <l>Thus did our Pious Guide juſt Precepts give,</l>
+                     <l>Both how to Think aright, and how to Live.</l>
+                     <l>The Cheats of Syren Vice expos'd to view,</l>
+                     <l>And Vertue in her native Beauty drew:</l>
+                     <l>Of her bright Paths a Proſpect did diſplay,</l>
+                     <l>Where ſmiling Peace and harmleſs Pleaſures lay;</l>
+                     <l>Did ſtraying Souls to her Encloſure bring,</l>
+                     <l>With charming Accents, ſuch as Halcyons ſing,</l>
+                     <l>Or Evening Zephyrs when they woo the Spring.</l>
+                     <pb n="37" facs="tcp:51314:23"/>
+                     <l>Heav'n He deſcrib'd as 'twere His native Home,</l>
+                     <l>And He an Envoy from thoſe Regions come.</l>
+                  </lg>
+                  <lg>
+                     <l>But Vertue's Image and the Graces, beſt</l>
+                     <l>In his bright Mind and Practice were expreſt.</l>
+                  </lg>
+                  <lg>
+                     <l>Divinely Humble in Preferment's Height;</l>
+                     <l>Nor then diſdain'd on needy Worth to wait:</l>
+                     <l>High Station only did his Beams extend,</l>
+                     <l>But none in his Advancement loſt a Friend.</l>
+                  </lg>
+                  <lg>
+                     <l>By Judgment's Compaſs ev'ry Courſe he Steer'd</l>
+                     <l>And watch'd the Signals e'er the Storm appear'd:</l>
+                     <l>His Prudence o'er the Surges did prevail,</l>
+                     <l>With Ballaſt ſtill proportion'd to his Sail.</l>
+                     <l>Precipitately ne'er aſſum'd a Truſt;</l>
+                     <l>To Promiſe Slow, but in Performance, Juſt.</l>
+                  </lg>
+                  <lg>
+                     <l>Of Temper calm, and Sanatively cool,</l>
+                     <l>As <hi>Jordan</hi>'s Current, or <hi>Betheſda</hi>'s Pool:</l>
+                     <pb n="38" facs="tcp:51314:24"/>
+                     <l>By Grace Inſtructed, and by Nature mild,</l>
+                     <l>Nor reliſht Life but when he <hi>Reconcil'd:</hi>
+                     </l>
+                     <l>His Carriage, Words and Works, breath'd Goſpel All</l>
+                     <l>His very Look was <hi>Evangelicall.</hi>
+                     </l>
+                     <l>His Life and Aſpect did juſt Patterns give</l>
+                     <l>What Figures Angels make, and how they Live.</l>
+                  </lg>
+                  <lg>
+                     <l>Th' Appearance of his Perſon brought a Charm</l>
+                     <l>That cou'd at Sight contentious Rage diſarm.</l>
+                     <l>So Boiſt'rous Winds that furiouſly contend,</l>
+                     <l>And Sea and Air in wild Diſorder blend,</l>
+                     <l>At <hi>Neptune</hi>'s Preſence, o'er the Waves Diſplay'd,</l>
+                     <l>Sculk to their Caverns, and the Storm is Layd.</l>
+                  </lg>
+                  <lg>
+                     <l>To Souls oppreſt with Sickneſs or with Grief,</l>
+                     <l>His Viſits, like an Angel's, brought Relief:</l>
+                     <l>When wrong'd, repeated Pardons did extend;</l>
+                     <l>To Suffer Reſolute, tim'rous to Offend.</l>
+                  </lg>
+                  <pb n="39" facs="tcp:51314:24"/>
+                  <lg>
+                     <l>His wond'rous Charity no Limits knew,</l>
+                     <l>But, like Heav'ns Manna, in the gathering, Grew.</l>
+                     <l>His Bounty ne're by Limbeck drops diſtill'd,</l>
+                     <l>But in large Show'rs the thirſty Valleys fili'd.</l>
+                     <l>In Giving, ſome expreſs ſuch grutching Grief,</l>
+                     <l>That Want it ſelf repines at the Relief;</l>
+                     <l>But he ſo Cheerfully did ſtill impart,</l>
+                     <l>That with his Alms he ſeem'd to give his <hi>Heart.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>But Day, my Muſe, will from our Sphere retreat,</l>
+                     <l>E'er we his Vertue's Garland can compleat;</l>
+                     <l>Nor all the fairer Siſters that frequent</l>
+                     <l>
+                        <hi>Pirene</hi>'s Banks, on that one Labour bent,</l>
+                     <l>Tho' Fancy's Treaſure ſhou'd be drein'd, can raiſe</l>
+                     <l>The full proportion'd Tribute of his Praiſe.</l>
+                     <l>Sons of Mortality, Learn'd, Pious, Wiſe;</l>
+                     <l>Who boaſt no leſs than Kindred with the Skies;</l>
+                     <l>See where Entomb'd your great Example lies!</l>
+                     <pb n="40" facs="tcp:51314:25"/>
+                     <l>Well! ſince his Soul its native Skies regains,</l>
+                     <l>We'll celebrate at leaſt its dear Remains;</l>
+                     <l>From Fate it ſelf we'll force the ſad Relief,</l>
+                     <l>The mourning Comfort to indulge our Grief.</l>
+                     <l>Permit ye Stars, who now his Preſence boaſt,</l>
+                     <l>Earth's wretched Sons, to tell what they have loſt!</l>
+                     <l>But he who juſtly will perform this Part,</l>
+                     <l>Muſt Truth conſult, no ſtudy'd Rules of Art;</l>
+                     <l>Invoke no <hi>Helicon</hi> but <hi>Jordan</hi>'s Spring,</l>
+                     <l>And for his <hi>Epicede</hi> an <hi>Anthem</hi> bring.</l>
+                  </lg>
+                  <lg>
+                     <l>Much leſs can our unconſecrated Verſe,</l>
+                     <l>His deathleſs <hi>Apotheoſis</hi> rehearſe.</l>
+                  </lg>
+                  <lg>
+                     <l>'Tis in a Sublunary Muſe's Pow'r,</l>
+                     <l>To furniſh Trophies for a Conquerour;</l>
+                     <l>Home to his Palace from the vanquiſh'd Plain,</l>
+                     <l>Expanded Fancy may the Pomp maintain;</l>
+                     <pb n="41" facs="tcp:51314:25"/>
+                     <l>But oh! When <hi>Vertue</hi>'s Triumph we would paint,</l>
+                     <l>The Progreſs ſing of ſome departing <hi>Saint,</hi>
+                     </l>
+                     <l>When ſome <hi>Elijah</hi> muſt to Heav'n be caught,</l>
+                     <l>From Heav'n the flaming Chariot muſt be brought:</l>
+                     <l>In ſuch a Flight our <hi>Pegaſus</hi> will Tire,</l>
+                     <l>To mount that Wain aloft there muſt conſpire</l>
+                     <l>The Whirl-Winds rapid Wings, and Steeds of Fire.</l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>Tiſhbite</hi>'s fiercer Spirit, raviſht hence,</l>
+                     <l>(Whoſe Miniſt'ry in Terrors did commence)</l>
+                     <l>With ſuch <hi>tempeſtuous</hi> Rapture might diſpence;</l>
+                     <l>But Tranſport, like our Prophet's Soul, <hi>Serene,</hi>
+                     </l>
+                     <l>Grac'd his pacifick Life's concluding Scene;</l>
+                     <l>From Earth tranſlated, <hi>gently,</hi> to the Skies,</l>
+                     <l>As Angels that on Flames of Incenſe riſe.</l>
+                     <l>From high where gratefull Throngs (about him preſs</l>
+                     <l>Of Souls by him directed up to Bliſs)</l>
+                     <pb n="42" facs="tcp:51314:26"/>
+                     <l>Tranſported he beholds the Paſt'ral Chair</l>
+                     <l>Supply'd, and made his mild Succeſſor's Care:</l>
+                     <l>(For Heav'n <hi>their</hi> Minds Reſemblance form'd Com<g ref="char:EOLhyphen"/>pleat,</l>
+                     <l>Like the <hi>Twin-Cherubs</hi> of the <hi>Mercy-Seat.</hi>)</l>
+                     <l>Our Altars made ſo kind a Guardian's Charge,</l>
+                     <l>Doe's, ev'n in Paradiſe, his Joys enlarge;</l>
+                     <l>Pleas'd that <hi>Euſebia</hi> does once more rejoyce,</l>
+                     <l>Once more applaud her <hi>pious Monarch</hi>'s Choice.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:51314:26"/>
+                  <p>
+                     <hi>Carmen Paſtorale-Nauticum.</hi> IN MEMORY OF His GRACE the Illuſtrious Duke OF ORMOND: And of the Right Honorable the Earl OF OSSORY.</p>
+                  <p>
+                     <hi>Written in the Year,</hi> 1688.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:51314:27"/>
+                  <pb facs="tcp:51314:27"/>
+                  <head>To His GRACE JAMES DUKE OF ORMOND.</head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>THERE needs no Apology for my Addreſſing to Your Grace this Poem in Memory of Your Illuſtrious and and Immediate Anceſtors, who paſs'd the Sphere of Life with an uninterrupted Courſe of Glory.</p>
+                  <p>The Duke of <hi>ORMOND</hi> (whoſe Obſequies I have here endeavour'd to Cele<g ref="char:EOLhyphen"/>brate)
+<pb facs="tcp:51314:28"/>was a Prince of ſuch accompliſh'd Perſon and Endowments of Mind, as if Na<g ref="char:EOLhyphen"/>ture in Him had deſign'd to triumph over Invention, to tranſcend the moſt exalted <hi>Ideas</hi> of Poetry, and to ſhew the Moraliſt ſuch an Example of conſummate Worth as he had never meet with, but in Speculation.</p>
+                  <p>He ſeem'd always at his <hi>Meridian,</hi> what ever he did or ſaid was Great and ſuitable to his mighty Self.</p>
+                  <p>Wherefore, as a juſt Reward to his tran<g ref="char:EOLhyphen"/>ſcendent Merit he ſurviv'd to ſee his Noble Genius copy'd in his Son the Illuſtrious Earl of <hi>OSSORY;</hi> who, both for Pacifick Virtues and Renown in Arms was likewiſe an Ornament of the Age in which he liv'd.</p>
+                  <p>The Muſes would juſtly forfeit ther Charter ſhould they refuſe their Tribute to the Shrines of ſuch deſerving and noble Patrons.</p>
+                  <pb facs="tcp:51314:28"/>
+                  <p>
+                     <hi>My Lord,</hi>
+                  </p>
+                  <p>I am ſenſible that their Encomium is more acceptable toyou than your own, tho' in truth it be the Same, for nothing can be worthily ſaid of them in which you are not Perſonally concern'd.</p>
+                  <p>Their Fame is as inſeparable from You as their Blood, and no leſs Hereditary than their Titles and Dignity. In Camp and Court, in Publick and Private Reſpects you have maintain'd their Character to the high<g ref="char:EOLhyphen"/>eſt pitch of Honour.</p>
+                  <p>This is the leaſt that can be ſaid of Your Grace, which, yet is enough to convince the World that true <hi>Engliſh</hi> Worth and Great<g ref="char:EOLhyphen"/>neſs of Soul is not every where expir'd.</p>
+                  <p>And that you may long ſurvive a glo<g ref="char:EOLhyphen"/>rious Example thereof is Implor'd, as
+<pb facs="tcp:51314:29"/>a Publick Bleſſing, by all true Lovers of their Country, but by none more zealouſly, than</p>
+                  <closer>
+                     <salute>My Lord,</salute>
+                     <signed>
+                        <hi>Your Grace's Moſt Humble And devoted Servant,</hi> N. Tate.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="49" facs="tcp:51314:29"/>
+                  <head>IN MEMORY Of His GRACE the Illuſtrious Duke of ORMOND, And the Right Honorable the Earl of OSSORY.</head>
+                  <lg>
+                     <l>ON a ſteep Bank, by native Reeds Supply'd,</l>
+                     <l>Where <hi>Thames</hi> the <hi>Med-way</hi> weds, his willing Bride,</l>
+                     <l>
+                        <hi>Thirſis</hi> had ſat him down his Pipe to mend</l>
+                     <l>Which he in Rage had broke—</l>
+                     <pb n="50" facs="tcp:51314:30"/>
+                     <l>
+                        <hi>Damon,</hi> the Friend whom he moſt dearly priz'd,</l>
+                     <l>(From Sea Return'd) the penſive Swain ſurpriz'd,</l>
+                     <l>And Thus accoſts him —</l>
+                  </lg>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>— Then 'twas falſe and vain</l>
+                     <l>The Rumour that Alarm'd Us on the Main,</l>
+                     <l>How You my Friend, with Grief become forlorn,</l>
+                     <l>Had broke your Pipe, and had your Muſe forſworn.</l>
+                  </sp>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>For Service paſt at laſt oppreſt with Wrong,</l>
+                     <l>What had thy Friend to do with chearful Song?</l>
+                     <l>The late repenting Muſe, from Town withdrawn,</l>
+                     <l>To Me return'd, and this forſaken Lawn,</l>
+                     <l>Where, on my broken Reed She deeply ſwore,</l>
+                     <l>Henceforth to tempt me from my Flock no more;</l>
+                     <l>And bid, to thankleſs Courts and Verſe Adieu.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>Then wherefore Swain that Pipe fixt up Anew?</l>
+                  </sp>
+                  <pb n="51" facs="tcp:51314:30"/>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>A Mournful Dirge muſt now employ my Breath,</l>
+                     <l>Joy I renounce—but ſtill may ſing of Death.</l>
+                     <l>Concern and Zeal will give the Numbers Heat,</l>
+                     <l>And <hi>Ormond</hi>'s mighty Name will make 'em Great.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>Should <hi>Phaebus</hi> and the tuneful Nine retire,</l>
+                     <l>Sound but the Name of <hi>Ormond,</hi> 'twill Inſpire</l>
+                     <l>With more than Poet's or <hi>Promethean</hi> Fire.</l>
+                  </sp>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>Thy <hi>Thirſis</hi> once to <hi>Phaebus</hi> did belong,</l>
+                     <l>Nor wholly Unimſpir'd preſumes this Song;</l>
+                     <l>The <hi>Muſes</hi> brought it nightly to my Ear;</l>
+                     <l>Freely I'll Sing, do you as freely Hear;</l>
+                     <l>Nor only Hear, but ſometimes bear a Part,</l>
+                     <l>For <hi>Damon</hi> Thou art Own'd a Son of Art;</l>
+                     <l>Though I the Field and Thou the Sea doſt chuſe,</l>
+                     <l>One Friendſhip ever rul'd our Breaſts, One <hi>Muſe:</hi>
+                     </l>
+                     <pb n="52" facs="tcp:51314:31"/>
+                     <l>And as my Lays were wont to Tune the Woods,</l>
+                     <l>The <hi>Tritons</hi> Thine cou'd raiſe, and charm the Floods.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>Strike, Shrike the Note, begin the noble Strein,</l>
+                     <l>While Earth and Skie the Confort ſhall maintain,</l>
+                     <l>While Ebbing <hi>Thames</hi> and <hi>Med-way</hi> gently creep;</l>
+                     <l>'Tis many Hours to Flood— till then the Winds will ſleep.</l>
+                  </sp>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>O Sacred <hi>Iſis,</hi> by whoſe ſhady Streams</l>
+                     <l>
+                        <hi>Oxonian</hi> Bards lie rapt in golden Dreams,</l>
+                     <l>Juſt Tribute pay to thy Great <hi>ORMOND</hi>'s Hearſe,</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>And give Immortal Worth Immortal Verſe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>When <hi>ORMOND</hi> Dy'd, ye Floods and Groves confeſs</l>
+                     <l>(You and your weeping Nymphs were Witneſſes.)</l>
+                     <pb n="53" facs="tcp:51314:31"/>
+                     <l>If any Care the heartleſs Heardſman took,</l>
+                     <l>To drive his Heiſſers to the Chryſtal Brook;</l>
+                     <l>If in that heavy Day, the gen'rous Steed</l>
+                     <l>Would taſt the Stream, or in the Paſture feed!</l>
+                     <l>In ſilent Hive the ſickly Bee lay ſtill,</l>
+                     <l>No wanton Kidd would ſport, nor am'rous Turtle Bill</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>As Nature had for <hi>ORMOND</hi>'s ſake Alone</l>
+                     <l>Employ'd her Powr's, and, her lovd <hi>ORMOND</hi> gone</l>
+                     <l>Her Care did ceaſe, and all her Task were done.</l>
+                  </sp>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>So <hi>Eden</hi> ſtarv'd when of her Lord beguild,</l>
+                     <l>And <hi>Paradiſe</hi> forthwith became a Wild.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>When ſuch tranſcendent Sorrow is the Theam</l>
+                     <l>Fair <hi>Cam</hi> muſt Eccho to our <hi>Iſis</hi> Stream:</l>
+                     <l>Nor muſt the <hi>Liffee</hi> be deny'd her Share.</l>
+                  </sp>
+                  <pb n="54" facs="tcp:51314:32"/>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>To Viſit his fam'd Court and Palace there</l>
+                     <l>From <hi>Ceſtrian</hi> Plains my <hi>Muſe</hi> did Young repair,</l>
+                     <l>And having <hi>ORMOND</hi> in his State beheld,</l>
+                     <l>(Whoſe Pomp her ſaint Ideas far excell'd)</l>
+                     <l>Return'd tranſported back to her Abode,</l>
+                     <l>And told the Village She had ſeen a God.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>My Fancy, early with Ambition fir'd,</l>
+                     <l>Of <hi>ORMOND</hi> and his Princely Deeds enquir'd;</l>
+                     <l>What Benefits the Patron had beſtow'd,</l>
+                     <l>How much our <hi>Europe</hi> to his Conduct ow'd</l>
+                     <l>In Peace and War—Then to the <hi>Indian</hi> Shore</l>
+                     <l>Remov'd, my <hi>Muſe</hi> her full Inſtructions bore,</l>
+                     <l>Where in the Plantan Shade She Sung his Name,</l>
+                     <l>Till from their Hills the Savage Natives came,</l>
+                     <l>And, liſt'ning to the Charming Ayres, grew Tame.</l>
+                  </sp>
+                  <pb n="55" facs="tcp:51314:32"/>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>Through what ſurprizing Mazes did he lead</l>
+                     <l>His vaſt Deſigns, what ſecret Paſſes tread?</l>
+                     <l>
+                        <hi>Alpheus</hi> thus the Ocean do's begnile,</l>
+                     <l>And diving deep with Undiſcover'd Toil,</l>
+                     <l>Riſes to bleſs the fair <hi>Sicanian</hi> Iſle.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>Long did oppreſt <hi>Brittannia</hi> hopeleſs Mourn</l>
+                     <l>For Exil'd <hi>Charles</hi> and <hi>Ormond</hi>'s wiſh'd Return,</l>
+                     <l>At laſt the Bliſs, which we ſo oft Implor'd,</l>
+                     <l>And no kind Pow'r durſt promiſe, was Reſtor'd;</l>
+                     <l>Then was the Tuneful Shepherd's Song allow'd,</l>
+                     <l>In Peace our Heiffers fed and Oxen Plow'd.</l>
+                     <l>With Honey Drops the <hi>Britiſh</hi> Oak diſtill'd,</l>
+                     <l>And burden'd <hi>Thames Auguſta</hi>'s Market fill'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>So far the fatal Plenty did Increaſe,</l>
+                     <l>We Surfeited at laſt on Wealth and Peace,</l>
+                     <pb n="56" facs="tcp:51314:33"/>
+                     <l>Whoſe Warmth our feebler Warriours did diſarm,</l>
+                     <l>Nor could they bear the Sun who bore the Storm;</l>
+                     <l>While <hi>Ormond</hi>'s Conſtancy, in proſp'rous State,</l>
+                     <l>Maintan'd her Regency as firm as Fate;</l>
+                     <l>Her gen'rous Stream through Seas of Pleaſure led,</l>
+                     <l>Clear and untainted as the Fountain's Head.</l>
+                  </sp>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>Virtue ſo feebly now exerts her Pow'rs</l>
+                     <l>We Stalk ſaint Shaddows of our Anceſtors.</l>
+                     <l>If Nature once in theſe degen'rate Days,</l>
+                     <l>Do's by ſome vaſt Effort an <hi>Ormond</hi> raiſe.</l>
+                     <l>He's gaz'd at while he Shines, and when he quits the Stage,</l>
+                     <l>In Darkneſs leaves our Sphear, and quite undoes the Age.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>Why wert thou rais'd ſo high and form'd ſo bright</l>
+                     <l>To lie with vulgar Mortals wrapt in Night!</l>
+                     <pb n="57" facs="tcp:51314:33"/>
+                     <l>Too rigid now, O Fate, thy Law appears,</l>
+                     <l>A Patriarch's Piety ſhould have a Patriarch's Years.</l>
+                  </sp>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>So have I ſeen the Oak, that long had ſtood</l>
+                     <l>A friendly Shelter to the Underwood,</l>
+                     <l>Green in his Age, till inbred Death deſtroy'd</l>
+                     <l>The Plant which Storms and Thunder ne'er annoyd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>The Noble Tree is periſh'd, while below</l>
+                     <l>The Shrubs ſurvive, and uſeleſs Brambles grow.</l>
+                  </sp>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>Behold my Friend behold you Shady Dale,</l>
+                     <l>Now Conſecrate and made a Sacred Vale,</l>
+                     <l>An Altar There I've rais'd in ſcanty Room</l>
+                     <l>The little Emblem of Great <hi>Ormond</hi>'s Tomb.</l>
+                     <l>Whoſe Front by me with Lawrels ſhall be Crown'd,</l>
+                     <l>Oft as the circling Year compleats his Round;</l>
+                     <pb n="58" facs="tcp:51314:34"/>
+                     <l>Ev'n now, againſt the Solemn Day's Return,</l>
+                     <l>(Which I muſt ever Honour ever Mourn)</l>
+                     <l>My <hi>Muſe</hi> has form'd her Tributary Verſe,</l>
+                     <l>That faintly her great Patron may Rehearſe;</l>
+                     <l>No rural Lay can reach his Character,</l>
+                     <l>But Shepherds Songs are always moſt ſincere.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>Nor have my Thoughts been Idle on the Main;</l>
+                     <l>The <hi>Muſes</hi> love <hi>Alternates,</hi> gentle Swain</l>
+                     <l>Admit in Courſe a Sailer's artleſs Strein.</l>
+                  </sp>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>What equal Rites ye Pow'rs can be Aſſign'd</l>
+                     <l>His God-like Perſon, and more God-like Mind?</l>
+                     <l>So much of Royalty his Preſence bore,</l>
+                     <l>That ſcarce a Sceptre cou'd had added more.</l>
+                     <l>Nature for Sov'reignty his Frame deſign'd,</l>
+                     <l>Conſenting Heav'en inſpir'd a Monarch's Mind,</l>
+                     <pb n="59" facs="tcp:51314:34"/>
+                     <l>Yet o'er Himſelf he was content to Sway,</l>
+                     <l>And Thought it Empire <hi>Caeſar</hi> to Obey.</l>
+                     <l>Reſt to his Sacred Aſhes may it bring</l>
+                     <l>That He was <hi>Virtues</hi> and the <hi>Muſes</hi> King.</l>
+                     <l>
+                        <hi>Haſt pious Swains to Celebrote his Tomb,</hi>
+                     </l>
+                     <l>
+                        <hi>So you may ſee a joyful Harveſt home.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>No Greatneſs e'er more Goodneſs did impart,</l>
+                     <l>From Heights of State he ſtoop'd to raiſe Deſert;</l>
+                     <l>To Him the bright Records of Fame were known,</l>
+                     <l>Whoſe beſt Examples ſtill became his own.</l>
+                     <l>All Traverſes of Fortune he ſuſtain'd,</l>
+                     <l>In All great <hi>Ormond</hi>'s Character maintain'd:</l>
+                     <l>Succeſs ne'er made him ſwell, nor ſuff'rings faint,</l>
+                     <l>The firſt the <hi>Hero</hi> prov'd, the laſt the Saint.</l>
+                     <l>
+                        <hi>Come pious Sailers drench with Tears his <g ref="char:V">Ʋ</g>rn,</hi>
+                     </l>
+                     <l>
+                        <hi>So may your fraighted Veſſel ſafe Return.</hi>
+                     </l>
+                  </sp>
+                  <pb n="60" facs="tcp:51314:35"/>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>In <hi>Ormond</hi>'s ſtead what can the Stars reſtore,</l>
+                     <l>What private Grief the Publick Loſs deplore?</l>
+                     <l>Thoſe Elogies our ſcanty Pow'rs deny</l>
+                     <l>Succeeding Times and Poets ſhall ſupply.</l>
+                     <l>In <hi>Oſſory</hi> Fate's Triumph was compleat,</l>
+                     <l>Fate to that Hero gave the firſt Defeat.</l>
+                     <l>Now Deſtiny uſurps too large a Share,</l>
+                     <l>An <hi>Ormond</hi> too is more than Earth can ſpare.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>For <hi>Oſſory</hi> our Sorrows ſtill are ſeen</l>
+                     <l>Freſh as his Fame, and as his Laurels green.</l>
+                  </sp>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>Like widdow'd Turtles we refuſe Relief,</l>
+                     <l>Renew our Dirges and Indulge our Grief.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>The News ſurpriz'd us, on the diſtant Shore.</l>
+                     <l>That Noble <hi>Oſſory</hi> was now no more!</l>
+                     <pb n="61" facs="tcp:51314:35"/>
+                     <l>The Tritons ſtarted from their Coral Beds,</l>
+                     <l>The Sea-Nymphs tore the Treſſeſs from their Heads.</l>
+                  </sp>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>On Land the Satyrs to their Dens retir'd,</l>
+                     <l>As when of Old the mighty <hi>Pan</hi> expir'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>I wonder'd much what ſundry Omens meant,</l>
+                     <l>The thrice Advancing Flood thrice backward went;</l>
+                     <l>Forthwith through all th' aſtoniſht Coaſt 'twas ſpred</l>
+                     <l>The Guardian of the Floods great <hi>Oſſory</hi> was Dead.</l>
+                  </sp>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>For her loſt Admiral the Ocean groand</l>
+                     <l>The harraſs'd <hi>Flandrian</hi> Plains his Fate bemoand,</l>
+                     <l>Sea-vanquiſh'd <hi>Belgians</hi> then were Reconcil'd,</l>
+                     <l>And only <hi>Africk</hi>'s Savage Genius ſmil'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>With Pangs my Thoughts that heavy Day recall,</l>
+                     <l>The Wind blew hard, my Veſſel craz'd and ſmall,</l>
+                     <pb n="62" facs="tcp:51314:36"/>
+                     <l>The <hi>Samphire-Man</hi> his deſp'rate Trade gave o'er</l>
+                     <l>The Fiſher drew his Netts and Boat a Shore,</l>
+                     <l>Then <hi>Thirſis</hi> then the <hi>Muſes</hi> watcht their time,</l>
+                     <l>And forc't me Thus to ſooth my Grief with Rhyme.</l>
+                     <l>Oh where are now your Charms ye Briny Deeps,</l>
+                     <l>Ye winding Coaſts, ſmooth Sands and craggy Steeps,</l>
+                     <l>What's Traffique now? What reaſon can you give</l>
+                     <l>To make forlorn deſponding <hi>Damon</hi> Live.</l>
+                     <l>Or can it e're account for half my pain,</l>
+                     <l>To ſtretch on Shells, and view the rolling Main,</l>
+                     <l>Or breath my Griefs to theſe cold Rocks in vain.</l>
+                     <l>For <hi>OSS'RY</hi>'s ſake a Sailer I became,</l>
+                     <l>And <hi>OSS'RY</hi> now is nothing but a Name?</l>
+                     <l>To Us no more—but to the Skies a Star—</l>
+                     <l>When next the raging Elements are at War</l>
+                     <l>When ſafe on Shore my fellow-Sailers ſleep,</l>
+                     <l>That deſp'rate Hour I'll take to launch into the Deep<g ref="char:punc">▪</g>
+                     </l>
+                     <l>Farewell all Lands, the tempting Syrges ſwell,</l>
+                     <l>Ev'n Thou that holdſt my <hi>OSS'RY</hi>'s Duſt, Farewell<g ref="char:punc">▪</g>
+                     </l>
+                  </sp>
+                  <pb n="63" facs="tcp:51314:36"/>
+                  <sp>
+                     <speaker>THIRSIS.</speaker>
+                     <l>How Charming-ſad O <hi>Damon</hi> is thy Verſe!</l>
+                     <l>Not <hi>Halcyons</hi> ſuch or dying Swans rehearſe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>When from theſe Regions firſt he took his flight,</l>
+                     <l>The Impious Age fear'd an Eternal Night:</l>
+                     <l>Yet ev'n that vaſt Eclipſe not quite our Sphear depriv'd,</l>
+                     <l>Our <hi>Oſſory</hi> was gone, but <hi>Ormond</hi> ſtill ſurviv'd.</l>
+                     <l>Whence can we now expect another Dawn,</l>
+                     <l>Our Sun and <hi>Phoſper</hi> both eternally withdrawn?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clotin.</speaker>
+                     <lg>
+                        <l>It Thunders on the Left, auſpicious Sign,</l>
+                        <l>And Lambent flames ſurround my <hi>Heroes</hi> Shrine:</l>
+                        <l>Freſh Odors breathing thence, the Air perfume,</l>
+                        <l>The Neighb'ring Groves their wonted Songs reſume;</l>
+                        <l>My Lambs begin to ſport, my Ewes to Feed:</l>
+                        <l>Whence can this Vital Influence proceed?</l>
+                     </lg>
+                     <pb n="64" facs="tcp:51314:37"/>
+                     <lg>
+                        <l>Behold a Second <hi>Ormond</hi> bright as Day,</l>
+                        <l>Breaks forth to chaſe our ſullen Fears away!</l>
+                        <l>Heav'n early did for our Relief contrive,</l>
+                        <l>That <hi>Oſſory</hi> and <hi>Ormond</hi> ſhould ſurvive</l>
+                        <l>In One great Heir that do's from Both derive.</l>
+                     </lg>
+                     <lg>
+                        <l>Ye Guardian-Pow'rs that have receiv'd in Truſt</l>
+                        <l>
+                           <hi>Great Britains</hi> Honor, to your Charge be juſt.</l>
+                        <l>Preſerve her riſing Hope, and add th' Arrears</l>
+                        <l>Of <hi>Oſſory</hi>'s ſhorten'd date, to his Succeſſors years;</l>
+                        <l>That in his finiſh'd Circle may be ſeen</l>
+                        <l>What <hi>Oſſory</hi>'s compleated Courſe had been.</l>
+                        <l>No Heights of Glory are too hard to trace,</l>
+                        <l>For <hi>Ormond</hi>'s Heir, Ally'd to <hi>Beaufort</hi>'s Race.</l>
+                        <l>In this ye Pow'rs your Care you have expreſs'd,</l>
+                        <l>To Fame and his great Genius leave the Reſt.</l>
+                     </lg>
+                  </sp>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:51314:37"/>
+                  <p>AN ELEGY In Memory OF That Moſt Excellent Lady The late COUNTESS OF DORSET.</p>
+                  <p>
+                     <hi>Written in the Year,</hi> 1691.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:51314:38"/>
+                  <pb facs="tcp:51314:38"/>
+                  <head>TO The Right HONORABLE MARY COUNTESS DOWAGER OF NORTHAMPTON.</head>
+                  <opener>
+                     <salute>MADAM,</salute>
+                  </opener>
+                  <p>ZEAL may be ſometimes too Offici<g ref="char:EOLhyphen"/>ous; 'tis therefore with no ſmall Concern that I bring Your Ladyſhip a Preſent that may renew Your Grief, with<g ref="char:EOLhyphen"/>out
+<pb facs="tcp:51314:39"/>ſufficient Merit to compenſate the Treſ<g ref="char:EOLhyphen"/>paſs.</p>
+                  <p>The Perſon and Character here Com<g ref="char:EOLhyphen"/>memorated, deſerv'd more Embelliſhments than any ſingle <hi>Muſe</hi> is able to fur<g ref="char:EOLhyphen"/>niſh out: Wherefore I pretend not to an Encomium, but an Elegy; being conſcious that it was Written and Revis'd with the moſt tender Sentiments of hearty Sorrow.</p>
+                  <p>It could not poſſibly be otherwiſe where the Loſs was ſo deplorable, and my Noble Patron was ſo great a Sufferer.</p>
+                  <p>Providence was then pleas'd to give Your Ladyſhip another occaſion of Exerciſing the moſt difficult of Chriſtian Virtues; but by how much ſeverer was the Tryal the greater is the Tryumph.</p>
+                  <pb facs="tcp:51314:39"/>
+                  <p>Neither was Your Ladyſhip left deſtitute of ſurviving Comforts to alleviate the Loſſes you ſuſtain'd.</p>
+                  <p>Your Honour has the Happineſs of ſee<g ref="char:EOLhyphen"/>ing (both of immediate and ſecond De<g ref="char:EOLhyphen"/>ſcent) ſuch flouriſhing Plants as are, and will be, ſingular Ornaments to our Nation.</p>
+                  <p>And that Your Ladyſhip ſhould be per<g ref="char:EOLhyphen"/>mitted to ſee them All in perfect Growth and Luſtre, (and long to enjoy that Sight) may be expected, in Recompence of that extraordinary Prudence, Piety, Cha<g ref="char:EOLhyphen"/>rity and Other Virtues, that have ſhin'd through the whole Courſe of Your moſt Exemplary Life.</p>
+                  <p>'Tis evident, <hi>Madam,</hi> that you have improv'd the Endowments conferr'd on You, by Religion and Nature, for nobler Ends than Popular Applauſe.</p>
+                  <pb facs="tcp:51314:40"/>
+                  <p>I ſhall therefore only beg Your Ac<g ref="char:EOLhyphen"/>ceptance of this Offering, in Memory of the Fair Saint, and Pardon for</p>
+                  <closer>
+                     <salute>Madam,</salute>
+                     <signed>
+                        <hi>Your Honour's Moſt obedient Servant,</hi> N. Tate.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="71" facs="tcp:51314:40"/>
+                  <head>IN MEMORY OF The moſt Excellent Lady late Counteſs OF DORSET.</head>
+                  <lg>
+                     <l>GO Shepherds—to your Cottages retire,</l>
+                     <l>Your <hi>Dorſet</hi> Mourns—no more the Pipe Inſpire!</l>
+                     <l>Your Mirth is done, your Care is vain—what need</l>
+                     <l>To tend thoſe Flocks that will no longer Feed?</l>
+                     <pb n="72" facs="tcp:51314:41"/>
+                     <l>Nature her Self with troubled Face appears,</l>
+                     <l>And Sable Robes for her loſt Darling wears;</l>
+                     <l>She ſighs in Storms, and weeps in Show'rs of Tears.</l>
+                     <l>Her vital Pow'rs in diſcontent Retreat,</l>
+                     <l>Her Elemental Fire withdraws its Heat;</l>
+                     <l>The ſullen Air admits no chearful Beam,</l>
+                     <l>And Grief has ſilenc'd ev'ry Vocal Stream.</l>
+                     <l>Ev'n Earth, that do's the precious Reliques ſhroud,</l>
+                     <l>Laments the Treaſure that ſhould make her proud:</l>
+                     <l>Alone exempted from the gen'ral Care,</l>
+                     <l>The Skies rejoyce to have regain'd a <hi>Star.</hi>
+                     </l>
+                     <l>With freſh Recruits of Light they ſhine and glow,</l>
+                     <l>Regardleſs of our Suff'rings here Below;</l>
+                     <l>With cruel Joy they Triumph at our Coſt,</l>
+                     <l>And Revel with the Prize that we have Loſt!</l>
+                  </lg>
+                  <lg>
+                     <l>Profane Diſeaſe! Thy Crime had been too Grea.</l>
+                     <l>In only Battering ſo fair a Seat;</l>
+                     <pb n="73" facs="tcp:51314:41"/>
+                     <l>Which ſpirefully thou quite haſt Undermin'd,</l>
+                     <l>Becauſe the bright Remains would ſtill have ſhin'd.</l>
+                     <l>So envious <hi>Rome</hi> no Method cou'd employ</l>
+                     <l>Fair <hi>Carthage</hi> to ſubdue, but to Deſtroy.</l>
+                  </lg>
+                  <lg>
+                     <l>Mute are the Groves where happy Shepherds ſung,</l>
+                     <l>And <hi>Philomel</hi> once more has loſt her Tongue.</l>
+                     <l>The Palm and Myrtle Groves no longer pleaſe;</l>
+                     <l>Cypreſs and Yew are now the only Trees.</l>
+                     <l>The mournful'ſt Objects moſt Endearments have,</l>
+                     <l>The loneſome Vale delights; the gloomy Cave</l>
+                     <l>Can pleaſe, becauſe it repreſents the <hi>Grave.</hi>
+                     </l>
+                     <l>Tears our Refreſhment are, our ſole Relief</l>
+                     <l>No more to wiſh or hope,</l>
+                     <l>But give Deſpair free ſcope,</l>
+                     <l>And rowl with the Impetuous Tide of Grief!</l>
+                  </lg>
+                  <lg>
+                     <l>If then ſo juſt and vaſt the Sorrow be,</l>
+                     <l>Of all who did the living Wonder ſee,</l>
+                     <pb n="74" facs="tcp:51314:42"/>
+                     <l>Or Only her fam'd Character have heard,</l>
+                     <l>To think ſuch Worth and Beauty are inter'd;</l>
+                     <l>How then ſhall be conceiv'd, or how expreſt,</l>
+                     <l>The Pangs that rent a tender Mother's Breſt?</l>
+                     <l>What Language, that can Still the raging Seas,</l>
+                     <l>Charm Diſcontent, and to Deſpair give Eaſe,</l>
+                     <l>The Conflict of maternal ſighs appeaſe?</l>
+                     <l>Should Wit pretend (what Wit can ne'er effect)</l>
+                     <l>To treat the Fair Deceas'd with due Reſpect;</l>
+                     <l>In proper Colours her Reſemblance paint,</l>
+                     <l>In Form an Angel as in Life a Saint:</l>
+                     <l>To ſay She <hi>was,</hi> when we can only ſay</l>
+                     <l>That (oh!) She was—all mild as ſpringing Day,</l>
+                     <l>Chearful and Beauteous as the Bloom of May;</l>
+                     <l>That, Goddeſs-like, her Preſence did impart</l>
+                     <l>Reviving Joys to ev'ry drooping Heart;</l>
+                     <l>That She ſpoke Muſick—that for Mien and Ayr</l>
+                     <l>She was All Charm—and yet as Good as Fair!</l>
+                     <pb n="75" facs="tcp:51314:42"/>
+                     <l>To ſhew the meek, the gen'rous Patroneſs</l>
+                     <l>And Comforter of Others in Diſtreſs,</l>
+                     <l>Her ſelf laid languiſhing without Redreſs,</l>
+                     <l>Will This relieve a mourning Parent's Grief?</l>
+                     <l>Ah! miſerable Art</l>
+                     <l>That only can'ſt impart</l>
+                     <l>The Food of Sorrow, an unkind Relief.</l>
+                  </lg>
+                  <lg>
+                     <l>One only Sov'reign Balm ſick Nature bears,</l>
+                     <l>A Royal Mourner's ſympathizing Tears;</l>
+                     <l>Tho' Gods nor Goddeſſes may Fate reverſe,</l>
+                     <l>A <note n="*" place="margin">Her Majeſty's Lamentation on this Occaſion.</note> Goddeſs, weeping, Conſecrates the Hearſe.</l>
+                  </lg>
+                  <lg>
+                     <l>Behold the Graces waiting on Her Urn,</l>
+                     <l>Transform'd as much as She for whom they Mourn!</l>
+                     <l>While Vertue's fairer Train ſtand ſighing by,</l>
+                     <l>Concern'd ſuch heav'nly Excellence cou'd Die.</l>
+                     <l>Youth, Beauty, Innocence, aſſembled there,</l>
+                     <l>With wither'd Looks — Zeal, Piety and Prayer,</l>
+                     <l>Belief and Hope transfigur'd to Deſpair!</l>
+                     <pb n="76" facs="tcp:51314:43" rendition="simple:additions"/>
+                     <l>There Charity, cold as her Statue, ſtands,</l>
+                     <l>And there Compaſſion wings her helpleſs Hands!</l>
+                     <l>Theſe were the tendereſt Darlings of her Breſt</l>
+                     <l>And like the Turtle-Brood, when diſpoſeſt,</l>
+                     <l>Hover and moan about their ruin'd Neſt!</l>
+                     <l>While Death Alone, with an inſulting Smile,</l>
+                     <l>In Tryumph ſits before the mournful Pile.</l>
+                  </lg>
+                  <lg>
+                     <l>Miſtaken Tyrant! Thy Deſigns are croſt,</l>
+                     <l>'Tis thou and We who by this Change have loſt:</l>
+                     <l>Of more than Life thou only haſt depriv'd</l>
+                     <l>Thoſe wretched Mortals who her Fate ſurviv'd;</l>
+                     <l>Look up and ſee, what will thy Pride confound,</l>
+                     <l>Thy reſcu'd Captive there with glory Crown'd!</l>
+                     <l>Behold her ſeated in a Bow'r of State</l>
+                     <l>(Above the reach of any Second Fate)</l>
+                     <l>While Saints and Seraphs on her Triumph wait.</l>
+                     <l>With Flow'rs that in Celeſtial <hi>Eden</hi> grow,</l>
+                     <l>They weave eternal Chaplets for her Brow;</l>
+                     <pb n="77" facs="tcp:51314:43"/>
+                     <l>While Heav'nly Harmony her Art employs,</l>
+                     <l>Eccho'd with Songs of never-ceaſing Joys!</l>
+                     <l>O Sacred Hierarchy! O Realms of Light!</l>
+                     <l>Tranſporting Viſion—but, for Mortal Sight</l>
+                     <l>Too dazling, too inſufferably Bright!</l>
+                  </lg>
+                  <lg>
+                     <l>Aſpiring <hi>Muſe</hi> Deſcend, the duskie Plains</l>
+                     <l>And Vale of Death beſt ſuit thy penſive Streins;</l>
+                     <l>Oh (ſince hard Fate allows no more) return'</l>
+                     <l>To Crown with Bays and Verſe the Sacred Urn.</l>
+                     <l>Such Verſe as may the gloomy Deſart Charm;</l>
+                     <l>Watch, Guard the lovely Saint's Remains from Harm</l>
+                     <l>With vital Tears o'ercome</l>
+                     <l>The Coldneſs of her Tomb,</l>
+                     <l>And keep, with glooming ſighs, her Aſhes ever warm!</l>
+                  </lg>
+                  <lg>
+                     <l>Oh whither will the diſmal Scene extend!</l>
+                     <l>Succeſſive Woe, where will thy Current end?</l>
+                     <pb n="78" facs="tcp:51314:44"/>
+                     <l>Behold, forlorn, the <hi>Maſe</hi>'s Patron laid</l>
+                     <l>With Mourning <hi>Cupids</hi> in a Cypreſs Shade!</l>
+                     <l>Of Fate nor cruel Skies he once complains,</l>
+                     <l>But Inwardly the Conflict he ſuſtains</l>
+                     <l>The ſtruggling Tumult of his Breaſt reſtrains.</l>
+                  </lg>
+                  <lg>
+                     <l>O <hi>DORSET!</hi> cou'd our worthleſs Lives pretend</l>
+                     <l>(Whoſe Comforts only on thy Smiles depend)</l>
+                     <l>To Bribe thy Griefs, how pleas'd cou'd we reſign</l>
+                     <l>Our Breaths, compounding for one Pang of Thine!</l>
+                  </lg>
+                  <lg>
+                     <l>Our uſeleſs Breaths are tender'd now in vain,</l>
+                     <l>Since tuneful Notes no more muſt chear the Plain:</l>
+                     <l>Let Numbers ceaſe—for, whom ſhould they relieve</l>
+                     <l>That can no Comfort to their Patron give?</l>
+                  </lg>
+                  <lg>
+                     <l>Yet <hi>DORSET</hi> Live—in Pitty to the Age,</l>
+                     <l>That, to condole thy Loſs, forgets its Rage.</l>
+                     <pb n="79" facs="tcp:51314:44"/>
+                     <l>The impious Age from that One Crime is free,</l>
+                     <l>Mad with inteſtine Strife we All agree</l>
+                     <l>Both in Admiring and Lamenting Thee.</l>
+                  </lg>
+                  <lg>
+                     <l>Let thoſe dear Pledges intercede at leaſt</l>
+                     <l>The Living Reliques of the Fair Deceas'd,</l>
+                     <l>Till <note n="*" place="margin">Lady <hi>Mary Sackville.</hi>
+                        </note> Infant-Beauty, to full Bloom arriv'd,</l>
+                     <l>The Mother's Charms and Virtues has reviv'd;</l>
+                     <l>Adorn'd with All that Nature's ſelf can crave</l>
+                     <l>To make a full Reprizal on the Grave:</l>
+                     <l>Till dawning <hi>B<g ref="char:V">Ʋ</g>CKH<g ref="char:V">Ʋ</g>RST</hi> to his <hi>Zenith</hi> riſe,</l>
+                     <l>And warm, (like You) and gild our <hi>Northern</hi> Shies;</l>
+                     <l>Till a new Series of unclouded Years,</l>
+                     <l>(Reſerv'd for Him) in ſhining Rank appears;</l>
+                     <l>When his ripe Fame ſhall ev'ry <hi>Muſe</hi> employ,</l>
+                     <l>Next Age's <hi>DORSET, Britain</hi>'s Second Joy.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:51314:45"/>
+                  <pb facs="tcp:51314:45"/>
+                  <p>A Conſolatory Poem To the Right Honorable JOHN LORD CUTTS, UPON THE DEATH OF HIS Moſt Accompliſh'd LADY.</p>
+                  <q>
+                     <l>Requies quondàm Speſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> unica Vitae,</l>
+                     <l> Nunc Dolor, aeternuſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> imo ſub Pectore Luctus.</l>
+                     <bibl>
+                        <hi>Sanaz Piſc. Ecl. 1</hi>
+                     </bibl>
+                  </q>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:51314:46"/>
+                  <pb facs="tcp:51314:46"/>
+                  <head>TO The Right HONORABLE JOHN LORD CUTTS, Baron of <hi>GOWRAN,</hi> &amp;c.</head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Could heartily have wiſh'd for a more Chearful Occaſion of acquainting the World with the Reſpect I have for Your Lordſhip.</p>
+                  <pb facs="tcp:51314:47"/>
+                  <p>However I cannot doubt Your Ac<g ref="char:EOLhyphen"/>ceptance of this Tribute in Memory of Your moſt Excellent Lady.</p>
+                  <p>You have moſt generouſly taken all Op<g ref="char:EOLhyphen"/>pertunities of Expreſſing the juſt Eſteem you had both for her Perſon and Virtues; and thereby Demonſtrated that Your Af<g ref="char:EOLhyphen"/>fection for Her was ſublim'd into Friendſhip, which is Love in Perfection.</p>
+                  <p>
+                     <hi>My Lord,</hi>
+                  </p>
+                  <p>I have a double Right of making this Addreſs to Your Lordſhip, both as You are a Friend to the Muſes and to Your Country.</p>
+                  <p>'Tis a Happineſs to our Nation tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> You are return'd to do her Service at Home after having done her ſo great Service and Reputation Abroad.</p>
+                  <pb facs="tcp:51314:47"/>
+                  <p>Your Performances in War are too Nu<g ref="char:EOLhyphen"/>merous to be mention'd in a Dedication, being ſufficient Matter for a Hiſtory.</p>
+                  <p>If Envy ſhall repine at the Fame You have Atchiev'd, 'tis what <hi>Horace</hi> has affirm'd of <hi>Hercules</hi> Himſelf; who after all the Labours he had ſuſtain'd, and Monſters that he had vanquiſht</p>
+                  <q>Comperit Invidiam ſupremo fine do<g ref="char:EOLhyphen"/>mari.</q>
+                  <p>But a greater Hero than <hi>Alcides</hi> has been an Eye-Witneſs to ſeveral of Your Lordſhip's Martial Actions; which tran<g ref="char:EOLhyphen"/>ſcends whatever can be ſaid by O<g ref="char:EOLhyphen"/>thers.</p>
+                  <p>Beſides my Lord, I pretend not to ſend You a Penegyrick but an Epiſtle; my Muſe being ambitious Only of being admitted as a Mourner at the Obſequies of a Perſon who was ſo unſpeakably Dear to You.</p>
+                  <pb facs="tcp:51314:48"/>
+                  <p>I have too tender a Senſe of Your Sorrow to Treſpaſs any farther upon it, and therefore ſhall only Subſcribe my ſelf</p>
+                  <closer>
+                     <salute>My Lord, </salute>
+                     <signed>
+                        <hi>Your Lordſhip's Moſt humble Servant,</hi> N. Tate.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="87" facs="tcp:51314:48"/>
+                  <head>A <hi>Conſolatory Poem</hi> To the Right Honorable <hi>JOHN</hi> Lord <hi>C<g ref="char:V">Ʋ</g>TTS,</hi> &amp;c.</head>
+                  <lg>
+                     <l>STretch'd in a loneſome Vale (where Spring decays,</l>
+                     <l>And Nature with Affright her Self ſurveys)</l>
+                     <l>
+                        <hi>LYSANDER</hi> grieving lay—the Earth his Bed!</l>
+                     <l>Againſt a moſſy Stone he lean'd his Head;</l>
+                     <l>His thoughtful Head, that no Repoſe admits:</l>
+                     <l>Cloſe at his Feet a ſighing <hi>Cupid</hi> ſits.</l>
+                     <pb n="88" facs="tcp:51314:49"/>
+                     <l>Wreaths, Chaplets, Trophies, (Once the Hero's Care)</l>
+                     <l>With all the glitt'ring Furniture of <hi>War,</hi>
+                     </l>
+                     <l>To ruſt and tarniſh on the Ground are left,</l>
+                     <l>Beneath a Leafleſs Oak by Thunder cleft.</l>
+                  </lg>
+                  <lg>
+                     <l>A pompous Cloud deſcending from the Hills</l>
+                     <l>Like ſome huge Pageant the broad Valleys fills.</l>
+                     <l>But now (with Drums and Trumpets awful Sound</l>
+                     <l>The vaſt Machine unfolding all around)</l>
+                     <l>Behold what glorious Objects are diſclos'd!</l>
+                     <l>Celeſtial Forms to Human View expos'd.</l>
+                     <l>Lo! firſt the GOD of WAR, with dreadful Grace,</l>
+                     <l>As when he thunders on the Plains of <hi>Thrace:</hi>
+                     </l>
+                     <l>The blue-ey'd <hi>PALLAS</hi> leans upon his Arm,</l>
+                     <l>And fiercely Beautiful, makes Terror Charm.</l>
+                     <l>The dusky Groves with ſudden Luſtre ſhine;</l>
+                     <l>Hark! how the Pow'rs of Harmony combine—</l>
+                     <l>'Tis bright <hi>APOLLO,</hi> with the Tuneful NINE.</l>
+                     <pb n="89" facs="tcp:51314:49"/>
+                     <l>More Heav'nly Figures ſtill adorn the Plain,</l>
+                     <l>The GRACES Mild and VIRTUES Awful Train</l>
+                     <l>
+                        <hi>BRITANNIA</hi> too—On whoſe Majeſtick State</l>
+                     <l>PEACE, Wreath'd in Palms, and Lawrell'd CON<g ref="char:EOLhyphen"/>QUEST wait.</l>
+                     <l>Theſe Noble Viſitants, by <hi>JOVE</hi>'s Command,</l>
+                     <l>Condoling round the Mourning Lover ſtand.</l>
+                  </lg>
+                  <lg>
+                     <l>Thus (ſternly) <hi>MARS</hi> the penſive Silence breaks—</l>
+                     <l>(And ſhakes the ground beneath him while he ſpeaks)</l>
+                  </lg>
+                  <lg>
+                     <l>O Fate! O diſmal Change! who now can trace</l>
+                     <l>One Feature of the Warrior in that Face!</l>
+                     <l>Where's now the ſprightly Air, whoſe radiant Light</l>
+                     <l>Through Clouds of Smoke diſtinguiſh'd Him in Fight?</l>
+                     <l>Or when, in deſp'rate Siege, o'er Bodies pil'd,</l>
+                     <l>He brav'd Deſtruction, and on Danger ſmil'd?</l>
+                     <l>Look up my Son, ſee how with Skill Divine</l>
+                     <l>Emblazon'd on my Shield, your Actions ſhine!</l>
+                     <pb n="90" facs="tcp:51314:50"/>
+                     <l>Your Hazards, Hardſhips, Honorable Wounds,</l>
+                     <l>With wond'rous Art expreſs'd in narrow Bounds.</l>
+                     <l>Death in All Shapes, with ſtill Undaunted Brow,</l>
+                     <l>You There Confront—And ſhall He Triumph Now?</l>
+                     <l>To flitting Winds this killing Sorrow give,</l>
+                     <l>And O! for Glory's ſake, conſent to Live.</l>
+                     <l>Reſume your Courage, your Heroick Flame,</l>
+                     <l>And liſten to the chearful Voice of FAME.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>MINERVA</hi> next with ſtately Mein advanc'd,</l>
+                     <l>Her Creſted Plume in waving Luſtre danc'd,</l>
+                     <l>And Lightning from her burniſh'd Helmet glanc'd,</l>
+                     <l>While thus the Goddeſs—</l>
+                  </lg>
+                  <lg>
+                     <l>—Why this wild Deſpair?</l>
+                     <l>For ſhort-liv'd Comfort why ſuch endleſs Care?</l>
+                     <l>Nature ſets Limits to the ſwelling Main,</l>
+                     <l>And Sorrow's Tide, at Height, ſhould Ebb again.</l>
+                     <pb n="91" facs="tcp:51314:50"/>
+                     <l>You have the Tribute of your Tears beſtow'd,</l>
+                     <l>Whate'er the Husband, Friend, or Lover ow'd.</l>
+                     <l>But now, unjuſtly to your ſelf engroſs</l>
+                     <l>A Grief that ſhould be Publick as the Loſs.</l>
+                     <l>For Mortals and Immortals, Earth and Skies,</l>
+                     <l>Are Suff'rers All when Sacred <hi>Virtue</hi> Dies!</l>
+                     <l>That Heav'nly Worth wou'd have ſo ſhort a Date,</l>
+                     <l>Does juſt Concern in Deities create,</l>
+                     <l>Who therefore mourn your Nymph's untimely Fate.</l>
+                     <l>Large was their Int'reſt in her Precious Life,</l>
+                     <l>But I a Daughter loſt, as you a Wife.</l>
+                     <l>Said I a Daughter?—Envy knows 'tis True!</l>
+                     <l>Not only That—She was my Darling too!</l>
+                     <l>To Her my beſt Endowments I aſſign'd,</l>
+                     <l>And crown'd her Beauty with as Fair a Mind:</l>
+                     <l>That Youth's Allurements cou'd, in Youth, deſpiſe;</l>
+                     <l>And only Wiſdom's Sacred Treaſure prize:</l>
+                     <pb n="92" facs="tcp:51314:51"/>
+                     <l>And reach a Sphere of Knowledge, too ſublime</l>
+                     <l>For Vanity's Fantaſtick Wings to climb.</l>
+                     <l>Her ſparkling Wit, that like her Eyes cou'd ſhine,</l>
+                     <l>Like them did modeſtly its Beams confine.</l>
+                     <l>The Bounds of Decency ſhe ne'er tranſgreſs'd;</l>
+                     <l>Yet no Reluctance, no Conſtraint expreſs'd.</l>
+                     <l>To Caution's Self ſhe gave a pleaſing Air;</l>
+                     <l>Beſerv'd, without the ſullen Look of Care.</l>
+                     <l>Her temper'd Mirth was like a Morning Ray,</l>
+                     <l>All Mildly Bright, and Innocently Gay.</l>
+                     <l>Then what her Serious, what her Sacred Hours?</l>
+                     <l>The Joy and Wonder of Celeſtial Pow'rs.</l>
+                     <l>We charge Thee, Fame, to her Deſerts be juſt,</l>
+                     <l>And piouſly perform the mighty Truſt:</l>
+                     <l>Let Future Ages read what This admir'd,</l>
+                     <l>But never know how <hi>Early</hi> She expir'd!</l>
+                     <l>For ſuch Perfections in the Bloom of <hi>Youth,</hi>
+                     </l>
+                     <l>Will ſtagger Faith, and caſt a Veil on Truth.</l>
+                     <pb n="93" facs="tcp:51314:51"/>
+                     <l>Thus <hi>PALLAS</hi>—next, in Accents ſweetly faint,</l>
+                     <l>The God of Verſe addreſs'd his kind Complaint.</l>
+                  </lg>
+                  <lg>
+                     <l>When <hi>Mars</hi> and War's lov'd Goddeſs ſue in vain,</l>
+                     <l>What can <hi>Apollo,</hi> and his ſlighted Train?</l>
+                     <l>Yet, Warrior, call to mind you once were ours:</l>
+                     <l>By me conducted to Inſpiring Bow'rs,</l>
+                     <l>The Seats of Fancy, and harmonious Pow'rs.</l>
+                     <l>To you our <hi>Helicon</hi> was all expos'd;</l>
+                     <l>The Fields of Wit, without Reſerve, diſclos'd.</l>
+                     <l>But (more enamour'd on advent'rous Fame)</l>
+                     <l>For Martial Wreaths you did my Bays diſclaim!</l>
+                     <l>Yet (fond her paſt Endearments to renew)</l>
+                     <l>The <hi>Daphne,</hi> who from my Embraces flew,</l>
+                     <l>To diſtant Camps and Sieges follow'd You.</l>
+                     <l>Ah too unkind—yet ſtill the Muſes Care;</l>
+                     <l>Who hither from their bliſsful Seats repair,</l>
+                     <l>Your Griefs to comfort, or at leaſt to ſhare.</l>
+                  </lg>
+                  <pb n="94" facs="tcp:51314:52"/>
+                  <lg>
+                     <l>To ſhare his Grieſs indeed, <hi>
+                           <g ref="char:V">Ʋ</g>RANIA</hi> cries,</l>
+                     <l>(Nor Deſtiny that wretched Help denies)</l>
+                     <l>For what can Numbers or melodious Breath,</l>
+                     <l>When Harmony it ſelf's untun'd by Death!</l>
+                     <l>When the ſweet Charmer of the Plains is made</l>
+                     <l>The Grave's mute Pris'ner, and a ſilent Shade!</l>
+                     <l>Tyrannick Fates, ingloriouſly you boaſt</l>
+                     <l>A Conqueſt, where you have the Triumph loſt;</l>
+                     <l>Your Pride muſt own that with Unvanquiſh'd Mind</l>
+                     <l>Life's deareſt Hopes and Bleſſings ſhe reſign'd.</l>
+                     <l>Her only Care—No more! —The Laſt Farewell</l>
+                     <l>Of Dying LOVE no gentle <hi>Muſe</hi> may tell!</l>
+                     <l>Tempeſtuous Winds that Doleful Tale ſhou'd bear</l>
+                     <l>Far hence, where only Salvages may hear,</l>
+                     <l>Far diſtant from her grieving LOVER's Ear.</l>
+                     <l>Let Muſick yet her <hi>Obſequies</hi> deplore;</l>
+                     <l>Perform that Task, and then be heard no more.</l>
+                     <pb n="95" facs="tcp:51314:52"/>
+                     <l>Pleas'd with the Hint, <hi>APOLLO</hi> ſtrikes his Lyre,</l>
+                     <l>While <hi>Thus</hi> in Conſort, ſung the Tuneful Quire,</l>
+                     <l>As Fancy, Grief, and <hi>Phaebus</hi> did Inſpire.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Ye</hi> Nymphs <hi>that in the Groves reſide,</hi>
+                     </l>
+                     <l>
+                        <hi>Or reap the Meadows early Pride,</hi>
+                     </l>
+                     <l>
+                        <hi>To deck</hi> LAURINDA<hi>'s Marble, bring</hi>
+                     </l>
+                     <l>
+                        <hi>The Virgin-Beauties of the Spring.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Nereids <hi>offer There your Shells,</hi>
+                     </l>
+                     <l>
+                        <hi>Diſmantle all your Gawdy Cells,</hi>
+                     </l>
+                     <l>
+                        <hi>A Tribute to</hi> LAURINDA<hi>'s Shrine;</hi>
+                     </l>
+                     <l>
+                        <hi>Your Gems alas too dimly ſhine!</hi>
+                     </l>
+                     <l>
+                        <hi>The Shrine is brighter far than They;</hi>
+                     </l>
+                     <l>
+                        <hi>Therefore,</hi> Nereids, <hi>ſteal away</hi>
+                     </l>
+                     <l>
+                        <hi>The Glances of</hi> Aurora<hi>'s Beams,</hi>
+                     </l>
+                     <l>
+                        <hi>Reflected on the Silver Streams.</hi>
+                     </l>
+                     <pb n="96" facs="tcp:51314:53"/>
+                     <l>
+                        <hi>Holy Vows and chaſt Deſires</hi>
+                     </l>
+                     <l>
+                        <hi>Feed the Lamp with</hi> Lambent <hi>Fires;</hi>
+                     </l>
+                     <l>
+                        <hi>Flames that Shine and never Burn,</hi>
+                     </l>
+                     <l>
+                        <hi>Shou'd only Crown.</hi> LAURINDA<hi>'s</hi> Urn.</l>
+                     <l>
+                        <hi>Tuneful Sighs, harmonious Groans,</hi>
+                     </l>
+                     <l>
+                        <hi>Halcyon-Songs, and Turtle-Moans,</hi>
+                     </l>
+                     <l>
+                        <hi>(Soft as Ev'ning Zephyrs call,</hi>
+                     </l>
+                     <l>
+                        <hi>Soft as ſhedding Roſes fall)</hi>
+                     </l>
+                     <l>
+                        <hi>Only from the Bow'r be heard</hi>
+                     </l>
+                     <l>
+                        <hi>Where</hi> LAURINDA <hi>lies Interr'd.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Lo where</hi> Hymen<hi>'s Self appears!</hi>
+                     </l>
+                     <l>
+                        <hi>His Nuptial Taper quench'd in Tears,</hi>
+                     </l>
+                     <l>
+                        <hi>His wither'd Wreath beſide him flung:</hi>
+                     </l>
+                     <l>
+                        <hi>See</hi> Cupid <hi>too (his Bow unſtrung)</hi>
+                     </l>
+                     <l>
+                        <hi>Engraving with a broken Dart</hi>
+                     </l>
+                     <l>
+                        <hi>(In Characters of wondrous Art)</hi>
+                     </l>
+                     <l>The <hi>Fair,</hi> the <hi>Wiſe,</hi> the <hi>Virtuous,</hi> and the <hi>Young</hi>
+                     </l>
+                     <pb n="97" facs="tcp:51314:53"/>
+                     <l>
+                        <hi>While thus Enſhrin'd her Aſhes lye,</hi>
+                     </l>
+                     <l>
+                        <hi>Her deathleſs Spirit mounts the Sky;</hi>
+                     </l>
+                     <l>
+                        <hi>And is in ſolemn State, preſented There</hi>
+                     </l>
+                     <l>
+                        <hi>With</hi> Ariadne's <hi>Crown and</hi> Caſſiopeia<hi>'s Chair.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Too low, your Heav'n's too low, <hi>Britannia</hi> cries,</l>
+                     <l>My Saint is tow'rd where never <hi>Muſe</hi> cou'd riſe;</l>
+                     <l>And bleſt with Raptures, more Divine and True</l>
+                     <l>Than your <hi>Apollo</hi> ever gave or knew.</l>
+                  </lg>
+                  <lg>
+                     <l>Ye Realms of Bliſs (enrich'd at <hi>Britain</hi>'s Coſt)</l>
+                     <l>While gainers There, think what on Earth you loſt!</l>
+                     <l>Since Death's rude Hand demoliſh'd that fair Shrine,</l>
+                     <l>See how the <hi>Virtues</hi> and the <hi>Graces</hi> pine.</l>
+                     <l>O Heav'n-born <hi>Piety!</hi> what tender Breaſt</l>
+                     <l>(Like Her's) will make thee now its early Gueſt;</l>
+                     <l>That Manſion fall'n, ah! whither wilt thou ſtray?</l>
+                     <l>
+                        <hi>Devotion,</hi> who ſhall teach thee now to <hi>Pray?</hi>
+                     </l>
+                     <pb n="98" facs="tcp:51314:54"/>
+                     <l>To whom ſhall Meekneſs for Protection fly;</l>
+                     <l>To whom ſhall ſhiv'ring Charity apply?</l>
+                     <l>To whom ſhall now her Infant Orphans cry?</l>
+                     <l>See how around her Tomb they take their Stands,</l>
+                     <l>And wail, and ſob, and wring their little Hands!</l>
+                     <l>Yet Fate this Proſpect ſtill of Comfort gives,</l>
+                     <l>Their Patroneſs's bright EXAMPLE lives.</l>
+                  </lg>
+                  <lg>
+                     <l>This Thought, <hi>LYSANDER,</hi> ſhou'd your Grieſs ſubdue,</l>
+                     <l>And make your blaſted Hopes to bloom anew.</l>
+                     <l>Celeſtial Pow'rs, when your accompliſh'd Fair</l>
+                     <l>They ſorm'd and finiſh'd with ſo nice a Care,</l>
+                     <l>To Earth ſo rich a Treaſure never gave</l>
+                     <l>For Fate to hoard it in a thankleſs Grave.</l>
+                     <l>Believe not then your Beauteous Saint expir'd,</l>
+                     <l>But only to her Native Heav'n retir'd.</l>
+                     <pb n="99" facs="tcp:51314:54"/>
+                     <l>Miſtake not Courteſy for Diſregard;</l>
+                     <l>If Life's a Toil, and death is Life's Reward,</l>
+                     <l>Sure, Nature's Tenderneſs is moſt expreſs'd</l>
+                     <l>To Thoſe whom Sooneſt ſhe admits to Reſt.</l>
+                  </lg>
+                  <lg>
+                     <l>I know the Genius of exceſſive Grief</l>
+                     <l>Is to indulge Deſpair, and ſhun Relief;</l>
+                     <l>But Heros from ſuch Frailty ſhou'd be free;</l>
+                     <l>Have Pity on your Self;—at leaſt on Me.</l>
+                     <l>Behold how TRIUMPH drops his flagging Wings;</l>
+                     <l>Nor PEACE can taſte the Bleſſings that ſhe brings.</l>
+                     <l>You waſte <hi>My</hi> Hours in Sorrow, while on You</l>
+                     <l>My Senate calls—My Royal Guardian too!</l>
+                     <l>In <hi>WILLIAM</hi>'s Name our Viſit is addreſt,</l>
+                     <l>His Summons hear, and charm your Griefs to Reſt.</l>
+                  </lg>
+                  <pb n="100" facs="tcp:51314:55"/>
+                  <lg>
+                     <l>So Pow'rful, ſo Inſpiring was the Sound</l>
+                     <l>Of <hi>WILLIAM</hi>'s Name, it ſhook the Hills around,</l>
+                     <l>And rais'd the Mourning Hero from the Ground</l>
+                     <l>Who now the Bright Aſſembly did ſurvey</l>
+                     <l>With ſuch ſubmiſſive Looks as ſeem'd to ſay—</l>
+                     <l>In Duty He his lov'd Deſpair wou'd quit,</l>
+                     <l>And to the Toils of <hi>Joyleſs</hi> Life ſubmit.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:51314:55"/>
+                  <p>A POEM ON THE PROMOTION OF SEVERAL Eminent Perſons IN CHURCH and STATE.</p>
+                  <p>
+                     <hi>Written in the Year,</hi> 1694. By <hi>N.TATE,</hi> Servant to their Majeſties.</p>
+                  <q>
+                     <l>—Magnum mihi panditur aequor,</l>
+                     <l>Ipſaque Pierios laſſant Proclivia Currus</l>
+                     <l>LA<g ref="char:V">Ʋ</g>DIB<g ref="char:V">Ʋ</g>S innumeris. —</l>
+                     <bibl>
+                        <hi>Claud.</hi>
+                     </bibl>
+                  </q>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:51314:56"/>
+                  <pb facs="tcp:51314:56"/>
+                  <head>To the Right Honourable WILLIAM EARL OF PORTLAND, Knight of the Moſt noble Order of the GARTER, <hi>&amp;c.</hi>
+                  </head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>'TIS properly the Buſineſs of a Poet, to Celebrate the moſt exemplary Characters of the Age and Coun<g ref="char:EOLhyphen"/>try in which he lives.</p>
+                  <pb facs="tcp:51314:57"/>
+                  <p>This was my Deſign in Collecting theſe Eſſays into a Volume, having found them not diſapprov'd when ſingly Publiſh'd.</p>
+                  <p>But having hitherto treated the Rea<g ref="char:EOLhyphen"/>der with Funeral Entertainments, it ſeem'd reaſonable for me to annex the following Liſt of Worthies, moſt of whom are living; and long may They yet Live, as it ought to be wiſh'd of all publick Bleſſings.</p>
+                  <p>Wherefore there needs no Excuſe for Preſenting Your Lordſhip with this Poem; the Eſteem You have for the Perſons concern'd in it, and their juſt Reſpect for Your Lordſhip make it my Duty.</p>
+                  <p>I will crave leave to add that it was likewiſe my Ambition and Inclination.</p>
+                  <pb facs="tcp:51314:57"/>
+                  <p>
+                     <hi>My Lord,</hi>
+                  </p>
+                  <p>'Tis no Wonder that Your Lordſhip ſhould be Addreſs'd by Poets ſince the Thanks of all <hi>EUROPE</hi> are due to Your Extraordinary Services, which were only to be Accompliſh'd by unweary'd Diligence and utmoſt Prudence in Ma<g ref="char:EOLhyphen"/>nagement.</p>
+                  <p>You have oblig'd Mankind by Your early and continu'd Fidelity to the Beſt of <hi>PRINCES,</hi> and Adventur'd the moſt eminent Dangers for the Preſervation of his moſt Sacred Life.</p>
+                  <p>You have been eminently Inſtrumen<g ref="char:EOLhyphen"/>tal in a <g ref="char:V">Ʋ</g>niverſal Peace, promoting the Safety and Tranquility of Nations, and done Honour to Ours, by Supporting its Dignity and Grandieur in a glorious Em<g ref="char:EOLhyphen"/>baſſie.</p>
+                  <pb facs="tcp:51314:58"/>
+                  <p>Theſe and Other noble Inſtances will Emblazon Your Character, and Signalize Your Name in Hiſtory, far beyond what<g ref="char:EOLhyphen"/>ever can be ſaid, by</p>
+                  <closer>
+                     <salute>My Lord, </salute>
+                     <signed>
+                        <hi>Your Lordſhip's Moſt humble, but devoted Servant,</hi> N. Tate.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="107" facs="tcp:51314:58"/>
+                  <head>A POEM ON THE PROMOTIONS, <hi>&amp;c.</hi>
+                  </head>
+                  <head type="sub">THE INTRODUCTION, Addreſs'd to the Right Honorable <hi>CHARLES</hi> Earl of <hi>Dor<g ref="char:EOLhyphen"/>ſet</hi> and <hi>Middleſex,</hi> &amp;c.</head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <lg>
+                     <l>
+                        <hi>WITH conſcious Fear my Muſe approaches You</hi>
+                     </l>
+                     <l>
+                        <hi>Wit's ableſt Judge, and beſt Example too.</hi>
+                     </l>
+                     <l>
+                        <hi>In Modeſty your ſight ſhe ſhould decline;</hi>
+                     </l>
+                     <l>
+                        <hi>The Only Barren Thing on which</hi> You <hi>ſhine!</hi>
+                     </l>
+                     <pb n="108" facs="tcp:51314:59"/>
+                     <l>
+                        <hi>To Your's Aſpiring, and her Countrey's Praiſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Deſerting Strength her ripe Deſign betrays.</hi>
+                     </l>
+                     <l>
+                        <hi>Yet ſee how Duty, with reſiſtleſs Spells,</hi>
+                     </l>
+                     <l>
+                        <hi>To freſh Attempts a Loyal Heart Compels!</hi>
+                     </l>
+                     <l>
+                        <hi>Since</hi> Britain<hi>'s Worthies their juſt Orbs ſuſtain,</hi>
+                     </l>
+                     <l>
+                        <hi>And loud Applauſe reſounds from ev'ry Plain;</hi>
+                     </l>
+                     <l>
+                        <hi>Our</hi> Britiſh <hi>Bards the only ſilent Throng;</hi>
+                     </l>
+                     <l>
+                        <hi>Rage burry'd me on this advent'rous Song,</hi>
+                     </l>
+                     <l>
+                        <hi>But oh! my Zeal forgot ſuch Themes requir'd,</hi>
+                     </l>
+                     <l>
+                        <hi>The Force and Fury of a Breaſt Inſpir'd.</hi>
+                     </l>
+                     <l>
+                        <hi>Yet theſe weak Streins may to a Nobler Flight</hi>
+                     </l>
+                     <l>
+                        <hi>Provoke thoſe Muſes whom they can't invite.</hi>
+                     </l>
+                     <l>
+                        <hi>To them ſhall, ſafely, Fame theſe Figures truſt,</hi>
+                     </l>
+                     <l>
+                        <hi>Whoſe Luſtre is in my dead Colours loſt.</hi>
+                     </l>
+                     <l>
+                        <hi>How warmly They each Character ſhall trace,</hi>
+                     </l>
+                     <l>
+                        <hi>Set off with proper Lights and Native Grace!</hi>
+                     </l>
+                     <l>
+                        <hi>Then higher Soar, and urging their Succeſs,</hi>
+                     </l>
+                     <l>
+                        <hi>Our great</hi> Auguſtus Court <hi>to life expreſs;</hi>
+                     </l>
+                     <pb n="109" facs="tcp:51314:59"/>
+                     <l>
+                        <hi>In which Illuſtrious Sphere, with Forms Divine,</hi>
+                     </l>
+                     <l>
+                        <hi>Shall our</hi> Agrippa <hi>and</hi> Mecaenas <hi>Shine.</hi>
+                     </l>
+                     <l>
+                        <hi>That Work commenc'd, how pleas'd ſtall I Retire!</hi>
+                     </l>
+                     <l>
+                        <hi>And at juſt Diſtatce ſilently Admire;</hi>
+                     </l>
+                     <l>
+                        <hi>Content and Proud the Skilful to have mov'd,</hi>
+                     </l>
+                     <l>
+                        <hi>And ſee my rude Deſign ſo well improv'd.</hi>
+                     </l>
+                     <l>
+                        <hi>Ev'n ſo blind Chance, the Art of Muſick found;</hi>
+                     </l>
+                     <l>
+                        <hi>A ruſling Wind amongſt the Reeds did ſound;</hi>
+                     </l>
+                     <l>
+                        <hi>That Noiſe Inſtructed Sheperds firſt to Frau</hi>
+                     </l>
+                     <l>
+                        <hi>The Tuneful Pipe, that ſince gave Sheperds</hi> Fame.</l>
+                  </lg>
+                  <lg>
+                     <l>AS Joyful Nature, who till then lay mute,</l>
+                     <l>Did the firſt Sun's exalted Beams ſalute;</l>
+                     <l>So <hi>Britain,</hi> reſcu'd from the ſullen Cloud</l>
+                     <l>That ſeem'd her new-created Face to ſhrow'd,</l>
+                     <l>Beholds, at once Tranſported and Amaz'd,</l>
+                     <l>To proper Sphears her Brighteſt Planets rais'd.</l>
+                  </lg>
+                  <pb n="110" facs="tcp:51314:60"/>
+                  <lg>
+                     <l>Our Monarch, who beſt knew their Uſe and Pow'r,</l>
+                     <l>Reſerv'd their Influence for the Proſp'rous Hour:</l>
+                     <l>Whoſe Aſpects now a ſtrong Direction joins,</l>
+                     <l>When Tyranizing <hi>Saturn</hi>'s Courſe declines.</l>
+                     <l>Thus Kings, whoſe Actions are to Heav'n ally'd,</l>
+                     <l>Like Providence, by Time are juſtify'd.</l>
+                     <l>Eaſy at Home their Task, when Peace combines</l>
+                     <l>With Pious Kings, and favours their Deſigns,</l>
+                     <l>Ours, preſt with War, and ſinking <hi>Europe</hi>'s Weight,</l>
+                     <l>Finds Leiſure to Adorn our <hi>Church</hi> and <hi>State.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>NOW, like the Viſionary Matron, rears</l>
+                     <l>
+                        <hi>Euſebia</hi> her calm Forehead crown'd with Stars.</l>
+                     <l>O'rejoy'd her Conſecrated Sons appear,</l>
+                     <l>(Thoſe Sons that hold their Mother's Honour dear)</l>
+                     <l>To ſee the Paſt'ral Chair by Him ſupply'd,</l>
+                     <l>For whom the Voice of Angels would decide.</l>
+                     <pb n="111" facs="tcp:51314:60"/>
+                     <l>In his Promotion Vice her Downſal read,</l>
+                     <l>She rav'd to find the <hi>Mitre</hi> on that Head:</l>
+                     <l>Her Venom ſwell'd to ſee, of Piety</l>
+                     <l>So Charming an Example plac'd ſo High;</l>
+                     <l>Whoſe Influence, her Fears preſag'd, wou'd make</l>
+                     <l>The Age reform, and her dark Empire ſhake,</l>
+                     <l>Preferment ſought Him, (Worthleſs Souls intrude,</l>
+                     <l>But Modeſt Merit muſt by Kings be woo'd.)</l>
+                     <l>He, ſlow conſenting, to the Temple's Sway</l>
+                     <l>Aſpir'd not, but did <hi>Caeſar</hi>'s Will Obey.</l>
+                     <l>While <hi>Caeſar</hi> did, who only could, preſcribe,</l>
+                     <l>He in meer Duty Rules the Sacred Tribe.</l>
+                     <l>His Moderation, Charity Divine,</l>
+                     <l>Led to this Choice our Gen'rous <hi>Conſtantine.</hi>
+                     </l>
+                     <l>Whoſe Genius, while the <hi>Croſier</hi> there he plac'd,</l>
+                     <l>His own Hereditary Virtues grac'd.</l>
+                     <l>Whoſe Clemency miſtaken Zeal does ſpare,</l>
+                     <l>To Conſcience, Tender; as to Crimes, Severe.</l>
+                     <pb n="112" facs="tcp:51314:61"/>
+                     <l>
+                        <hi>Caeſar,</hi> theſe Charms can only Thrones ſuſtain,</l>
+                     <l>And you in Theſe without a Rival Reign.</l>
+                     <l>O Friend of Nations! None you hold for Foes,</l>
+                     <l>Except the Troublers of the World's Repoſe.</l>
+                     <l>Juſt is your Cauſe; oh! may as Juſt Succeſs</l>
+                     <l>Attend Your Arms, till, You Mankind redreſs:</l>
+                     <l>Till harras'd <hi>Europe</hi> ſafe at Reſt is laid,</l>
+                     <l>As ſlept firſt Mortals in their <hi>Sylvan</hi> ſhade.</l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>Muſe,</hi> her Viſit to the Temple paid,</l>
+                     <l>Comes forth, where Peals of Joy her Ear invade.</l>
+                     <l>What charming Pomp ſuch Tranſports can create?</l>
+                     <l>Lo! <hi>Sommers</hi> with the Emblems of his State!</l>
+                     <l>How juſtly, Heav'n, are now thoſe Trophies born</l>
+                     <l>Before ſuch Worth, in ſuitable Return,</l>
+                     <l>Adorning him, who <hi>Britain</hi> do's adorn!</l>
+                     <l>A Poet's Genius ſhould be all on Fire;</l>
+                     <l>What Extaſies ſhould his rais'd Soul inſpire?</l>
+                     <pb n="113" facs="tcp:51314:61"/>
+                     <l>When Crowds, at Sight of Him, can Rapture feel;</l>
+                     <l>See how they preſs to Gaze, and load his Chariot<g ref="char:EOLhyphen"/>wheel!</l>
+                     <l>To fetter'd Numbers how ſhall be confin'd</l>
+                     <l>The Compaſs of His Comprehenſive Mind!</l>
+                     <l>Senſe, Reaſon, Muſick, in his Language throng,</l>
+                     <l>The Graces ſit Aſſembled on his Tongue;</l>
+                     <l>Whoſe Accents ev'n the flying Winds ſurprize,</l>
+                     <l>Who watch their Birth, and bear 'em to the Skies.</l>
+                     <l>The <hi>Muſes,</hi> who ſeverer Arts profeſs,</l>
+                     <l>By Him are Cheriſh'd, ne'er deny'd Acceſs;</l>
+                     <l>Only the Idle, and the Singing Crew,</l>
+                     <l>Chid from his Preſence, long, long ſince withdrew.</l>
+                     <l>In Youth, their Lawrels, at his Feet they laid,</l>
+                     <l>To Court Him, all their <hi>Syren</hi>-Charms diſplay'd;</l>
+                     <l>Which like <hi>
+                           <g ref="char:V">Ʋ</g>lyſſes</hi> wiſely He contemn'd,</l>
+                     <l>And, Tacking off, the Tide of Buſineſs ſtemm'd.</l>
+                     <pb n="114" facs="tcp:51314:62"/>
+                     <l>'Twould beggar Thought and Language both, to raiſe</l>
+                     <l>The full proportion'd Tribute of his Praiſe.</l>
+                     <l>Whom, through all Provinces of Learning crown'd,</l>
+                     <l>Tranſcendent Virtues render more renown'd.</l>
+                     <l>Juſtice do's, viſible, from Heav'n repair;</l>
+                     <l>Unveil'd ſhe comes, and takes with Him the Chair.</l>
+                  </lg>
+                  <lg>
+                     <l>Next, were my Strength proportion'd to my Zeal,</l>
+                     <l>I'd ſing the Guardian of the <hi>Privy-Seal.</hi>
+                     </l>
+                     <l>On <hi>Pembrook,</hi> what can Court or State confer</l>
+                     <l>Beyond his Knowledge, or his Virtue's Sphere?</l>
+                     <l>Who, like the Sun, the higher he aſcends,</l>
+                     <l>But further warms, and more his Beams extends.</l>
+                     <l>In Private Actions, as in Publick Truſt,</l>
+                     <l>To Honour's Scheme ſo <hi>regularly</hi> juſt;</l>
+                     <l>That his whole Soul but ſeems a Model, fram'd</l>
+                     <l>By thoſe rare Arts in which his Skill is fam'd.</l>
+                     <pb n="115" facs="tcp:51314:62"/>
+                     <l>Whoſe Judgment the beſt Pencil can direct;</l>
+                     <l>In Symetry inſtruct the Architect.</l>
+                     <l>Whoſe Rays can Light to Time's dark Relicts give,</l>
+                     <l>And from the Grave Antiquity retrieve.</l>
+                     <l>O Sacred Faculty! whoſe Pow'r tranſcends</l>
+                     <l>Life's Territories, and the Dead befriends.</l>
+                     <l>Bleſt Genius! who Paſt Ages can renew,</l>
+                     <l>And Ours tranſmit to All that ſhall enſue.</l>
+                     <l>Who ev'ry Science, and ſo early, gain'd,</l>
+                     <l>As Heav'n Inſpir'd, not Induſtry Obtain'd.</l>
+                     <l>Vaſt Ocean, that from ev'ry Channel draws,</l>
+                     <l>From Stateſmen, Schools, Divine and Human Laws.</l>
+                     <l>To Worth depreſt, and injur'd Right, his Ear</l>
+                     <l>Is ever open, and his Heart ſincere.</l>
+                     <l>O Piety! O Truth without a Stain!</l>
+                     <l>Reſerv'd by Heav'n for <hi>William</hi>'s Sacred Reign.</l>
+                  </lg>
+                  <pb n="116" facs="tcp:51314:63"/>
+                  <lg>
+                     <l>How, <hi>Shrewsbury,</hi> for thy Return to State,</l>
+                     <l>And once more condeſcending to be Great,</l>
+                     <l>Shall my weak <hi>Muſe</hi> aſſume the mighty Tone?</l>
+                     <l>How eccho back the Joy by Nations ſhown,</l>
+                     <l>Whoſe Breath wants Compaſs to expreſs her own?</l>
+                     <l>Yet Oh! would Strength with my Deſires comply,</l>
+                     <l>My Song a <hi>Dytherambick</hi> Pitch ſhould fly:</l>
+                     <l>Purſuing thy juſt Praiſes to the Skies,</l>
+                     <l>But they tow'r ſwift, and I want Wings to riſe.</l>
+                     <l>Immortal Streins ſhould <hi>Caeſar</hi>'s Darling grace;</l>
+                     <l>The Worthieſt Heir of <hi>Talbot</hi>'s Noble Race.</l>
+                     <l>With gen'ral Thanks (for All your Abſence mourn'd,)</l>
+                     <l>We bleſs, at once, our Hopes and You return'd.</l>
+                     <l>So <hi>Rome,</hi> diſtreſs'd, in one united Swarm,</l>
+                     <l>Welcom'd her great Dictator from his Farm.</l>
+                  </lg>
+                  <lg>
+                     <l>Theſe Worthies, <hi>Britain,</hi> for thy Glory born,</l>
+                     <l>And Numbers more, thy happy Realm adorn.</l>
+                  </lg>
+                  <pb n="117" facs="tcp:51314:63"/>
+                  <lg>
+                     <l>Turn, turn your Eye to bright <hi>Anguſta</hi>'s Pile;</l>
+                     <l>See how her Sons, ſee how her Fabricks ſmle.</l>
+                     <l>Ages were told by that Imperial Dame,</l>
+                     <l>E're <hi>Rome</hi> determin'd her diſputed Name.</l>
+                     <l>Who Tyrant-<hi>Rome</hi> in <hi>Juſt</hi> Renown excell'd,</l>
+                     <l>As far as <hi>Thames</hi> above the <hi>Tyber</hi> ſwell'd.</l>
+                     <l>Her Situation boaſts no empty Height,</l>
+                     <l>No Barren Mountains to ſupport her Weight:</l>
+                     <l>From <hi>Thames</hi> his Bank contented to look down,</l>
+                     <l>And ſee the Treaſures of the World her own.</l>
+                     <l>King Stars could to her Bleſſings add no more,</l>
+                     <l>But to ſecure what they conferr'd before:</l>
+                     <l>'Tis done: —Her Laws, her Rights by Publick Voice</l>
+                     <l>Were fix'd, when <hi>Aſhhurſt</hi> was her Guardian-Choice.</l>
+                     <l>All that her Hopes or utmoſt Wiſh could crave,</l>
+                     <l>She to her ſelf in that Election gave,</l>
+                     <pb n="118" facs="tcp:51314:64"/>
+                     <l>'Twas Then Fate ſnatch'd the Wheel from For<g ref="char:EOLhyphen"/>tune's Hand,</l>
+                     <l>And charm'd it faſt.—Thus utt'ring her Command,</l>
+                     <l>At this Aſcendant, my <hi>Auguſta,</hi>—Stand.</l>
+                     <l>For whom ſhould her Conſenting Votes engage</l>
+                     <l>But <hi>Aſhhurſt?</hi> the <hi>Fabricius</hi> of our Age.</l>
+                     <l>Sprung from a Patriot-Race of old Renown,</l>
+                     <l>He centres all their Glories in his Own.</l>
+                     <l>On Him, with Meaſure unconfin'd, did fall,</l>
+                     <l>That Publick Spirit which inſpir'd them All.</l>
+                     <l>
+                        <hi>Auguſta,</hi> to thy grateful Sons and Thee,</l>
+                     <l>For ever Sacred let his Trophies be;</l>
+                     <l>The boldeſt Champion of your Liberty.</l>
+                     <l>For Peace can courage boaſt with Triumphs crown'd,</l>
+                     <l>That loud, as thoſe obtain'd by War, reſound:</l>
+                     <l>Whoſe Gilded Lawrels too, are full as good,</l>
+                     <l>In Fame's Eſteem, as Laurels dy'd in Blood.</l>
+                     <pb n="119" facs="tcp:51314:64"/>
+                     <l>Him, in her Chair, the City finds ſo Juſt,</l>
+                     <l>That ſhe repines 'tis but an Annual Truſt:</l>
+                     <l>Which, by th' Effects of his Induſtrious Skill,</l>
+                     <l>Ev'n when Retir'd, he yet ſhall ſeem to Fill.</l>
+                     <l>His Methods and Example ſhall prevail,</l>
+                     <l>And Bleſſings on ſucceeding Reigns entail.</l>
+                     <l>For <hi>Virtue,</hi> that does laſting Fruit intend,</l>
+                     <l>And does, like His, its utmoſt Force extend,</l>
+                     <l>In One Year's ſpace whole Ages can befriend.</l>
+                  </lg>
+                  <lg>
+                     <l>Behold the hurry'ng Crowd from ev'ry Street</l>
+                     <l>Preſs to the <hi>Thames</hi> ſome Pageantry meet.</l>
+                     <l>Lo there in wondrous Pomp blue Tritons ride,</l>
+                     <l>And Sea-Nymphs entring with the ſwelling Tide.</l>
+                     <l>Advanc'd before our Senate-Houſe, they call</l>
+                     <l>For <hi>Ruſſel,</hi> their Victorious Admiral.</l>
+                     <pb n="120" facs="tcp:51314:65"/>
+                     <l>Envoys to him they come, and ſeem to ſay,</l>
+                     <l>
+                        <hi>Neptune</hi> his ready Homage waits to pay,</l>
+                     <l>And <hi>Thetis</hi> grows impatient of his ſtay.</l>
+                     <l>Bleſſings attend your Counſels (thus they ſing)</l>
+                     <l>Great <hi>Britain</hi>'s Senate, may your Gen'rous Spring</l>
+                     <l>Of Tribute, for the Publick Safety, riſe,</l>
+                     <l>As full and faſt as ours the <hi>Thames</hi> ſupplies;</l>
+                     <l>Who finds, in circling Trade, his juſt return,</l>
+                     <l>And bleſſes the Expences of his Urn.</l>
+                     <l>Let <hi>Ruſſel</hi> ſtill Command, and ſtill the Main</l>
+                     <l>To <hi>Britain</hi> his old Duty ſhall retain;</l>
+                     <l>Still ſerve the Iſle, which he, embracing laves,</l>
+                     <l>With Loyalty as Ancient as his Waves.</l>
+                     <l>Whoſe full Aſſembly did your Votes reſound,</l>
+                     <l>When You his Courage and his Conduct own'd.</l>
+                     <l>O Sea's great Hero! to thy Fleet repair,</l>
+                     <l>And ſee the ready Harveſt of thy Caré,</l>
+                     <pb n="121" facs="tcp:51314:65"/>
+                     <l>A cheerful Crew of Sailors doubly Fir'd,</l>
+                     <l>By Native Valour, and by You inſpir'd:</l>
+                     <l>Through ev'ry Squadron plenteous Stores convey'd;</l>
+                     <l>Their Flags and Streamers Gallantly diſplay'd.</l>
+                     <l>A flowing Tide and Winds preſenting fair,</l>
+                     <l>Or will at leaſt when <hi>Ruſſel</hi> does appear.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>French</hi> Pyrates ſnatch'd our Seas unguarded Wealth,</l>
+                     <l>As <hi>Cacus</hi> the <hi>Herculean</hi> Herd, by Stealth:</l>
+                     <l>The Hero's Abſence that advantage gave;</l>
+                     <l>But he, returning, Sack'd the Robbers Cave.</l>
+                     <l>In vain the treach'rous Den with Rock was Barr'd,</l>
+                     <l>Which Fire and Smoak cou'd now no longer Guard.</l>
+                     <l>The Reſt, ſecur'd by ſhameful Odds, Engage;</l>
+                     <l>
+                        <hi>Tourville</hi> alone cou'd boaſt a gen'rous Rage.</l>
+                     <l>Nor unrenown'd his glitt'ring <hi>Sun</hi> is ſett,</l>
+                     <l>That <hi>Ruſſel,</hi> and <hi>Britannia</hi>'s Lightning met.</l>
+                     <pb n="122" facs="tcp:51314:66"/>
+                     <l>'Twas Fame enough to dare, though fore'd to ſhrow'd</l>
+                     <l>Her vanquiſh'd Glories in a ſhelt'ring Cloud.</l>
+                     <l>With Terrors Threatning Pomp diſplay'd they came,</l>
+                     <l>Tempeſt-reſembling Fury, Noiſe, and Flame,</l>
+                     <l>Enough to have Aſtoniſh'd and O'rethrown</l>
+                     <l>A Foe, not Arm'd with greater of his Own.</l>
+                     <l>But urg'd the Fate that ſuch Pteſumption crav'd,</l>
+                     <l>When, <hi>Caeſar,</hi> they your Naval Thunder Brav'd.</l>
+                     <l>So raſh <hi>Salmoneus,</hi> while with <hi>Jove</hi> he Vy'd,</l>
+                     <l>Fell by that Thunderbolt, which he Defy'd.</l>
+                  </lg>
+                  <lg>
+                     <l>From Sea, the <hi>Muſe</hi> our diſtant Campdoes view;</l>
+                     <l>But drops her Wing o're charg'd with briny Dew.</l>
+                     <l>From her own <hi>Britain</hi> too, remov'd too far,</l>
+                     <l>Where <hi>Caeſar</hi> waits Fame's Summons to the War;</l>
+                     <l>And <hi>Ormond</hi> (His, as Caeſar <hi>Ormond</hi>'s Care)</l>
+                     <l>Prepares his Danger and Renown to ſhare.</l>
+                     <pb n="123" facs="tcp:51314:66"/>
+                     <l>Whoſe Wounded Breaſt ſhall future Ages Charm,</l>
+                     <l>Together Sung with <hi>William</hi>'s Wounded Arm.</l>
+                     <l>Shine Bright ye Stars, who kindly did divert</l>
+                     <l>The Piercing Ponyard from that Gen'rous Heart.</l>
+                     <l>
+                        <hi>Muſe,</hi> Crown his Brow, but make his Laurel wreath</l>
+                     <l>As Mild and Sweet, as Morning Roſes Breath;</l>
+                     <l>Who Clemency to Courage reconciles,</l>
+                     <l>And in whoſe Face delighted Nature ſmiles.</l>
+                     <l>The Graces early Nurs'd whom they decreed</l>
+                     <l>Their former Darling <hi>Ormond</hi> to ſucceed;</l>
+                     <l>Illuſtrious <hi>Oſſory</hi>'s expiring Breath,</l>
+                     <l>To him his Fame and Virtues did bequeath.</l>
+                     <l>Thus to <hi>Elyſian</hi> Fields the <hi>Phaenix</hi> Fled</l>
+                     <l>To his Succeſſor leaves a Spicy Bed.</l>
+                     <l>The Royal Eagle, all the Noble Quire</l>
+                     <l>The Wondrous Heir of the <hi>Sun</hi>'s Bird Admire.</l>
+                  </lg>
+                  <pb n="124" facs="tcp:51314:67"/>
+                  <lg>
+                     <l>From Fairy Land great <hi>Spencers</hi> Shade ſhall rife,</l>
+                     <l>And <hi>Milton</hi> from his Dream of Paradiſe;</l>
+                     <l>To Charm the <hi>Boyne,</hi> and then the <hi>Shannon</hi>'s Stream,</l>
+                     <l>
+                        <hi>William</hi> their Firſt, and <hi>Talmaſh</hi> their next Theme.</l>
+                  </lg>
+                  <lg>
+                     <l>Of Num'rous Worthies more our Liſts can boaſt;</l>
+                     <l>But who has Breath to Count the Starry Hoſt?</l>
+                     <l>The <hi>Muſe</hi> who can that <hi>Galaxie</hi> recite,</l>
+                     <l>May too the Princely <hi>Conſtellation</hi> Write,</l>
+                     <l>Whom <hi>Britain</hi>'s <hi>Jupiter,</hi> Preſiding, draws,</l>
+                     <l>And joins their Aſpects in the Common Cauſe.</l>
+                     <l>The Cauſe that <hi>Europe</hi>'s Heroes did employ,</l>
+                     <l>Of old Combining to demoliſh <hi>Troy.</hi>
+                     </l>
+                     <l>For <hi>Helen</hi>'s Rape, that Arm'd the Pow'rs of <hi>Greece'</hi>
+                     </l>
+                     <l>Was but a Type of Violated Peace,</l>
+                     <l>'Tis fix'd — Behold the happy promis'd Day</l>
+                     <l>Already Plum'd, and on his Glorious Way,</l>
+                     <pb n="125" facs="tcp:51314:67"/>
+                     <l>With Triumphs charg'd, that ſhall once more invite</l>
+                     <l>The gen'rous <hi>Muſe</hi> that Sung the <hi>Boyne,</hi> to Write.</l>
+                     <l>Themes Sacred, and by Fame reſerv'd intire</l>
+                     <l>For <hi>Montague</hi>'s inimitable Fire:</l>
+                     <l>Fancy that can to Clouds of Smoke give Light,</l>
+                     <l>And trace a Hero through the dusky Fight.</l>
+                     <l>Oh! if, for ſuch exalted Themes and Witt,</l>
+                     <l>His Country's <hi>Service</hi> Leiſure cou'd permit,</l>
+                     <l>Not Summer-Breezes wou'd delight us more,</l>
+                     <l>Nor Waves that gently break upon the Shore</l>
+                     <l>But ſince a Nobler Sphear of <hi>Publick Good,</hi>
+                     </l>
+                     <l>(By None more lov'd, or better Underſtood)</l>
+                     <l>Such Induſtry and Judgment muſt engroſs,</l>
+                     <l>The <hi>Muſes</hi> (touch'd with Senſe of their own Loſs</l>
+                     <l>And Publick welfare) after long Debate,</l>
+                     <l>'Twixt Grief and Joy reſign him to the State.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:51314:68"/>
+            <pb facs="tcp:51314:68"/>
+            <head>
+               <hi>Some Books lately Printed for, and Sold by</hi> Joſeph Wild, <hi>at the</hi> Elephant <hi>at</hi> Cha<g ref="char:EOLhyphen"/>ring-Croſs.</head>
+            <p>
+               <list>
+                  <item>POems on ſeveral Occaſions. By <hi>Dan. Baker,</hi> M. A.</item>
+                  <item>A Satyr againſt Wooing, with a View of the ill Conſequences that attend it. Written by the Author of the Satyr againſt Woman, <hi>Price</hi> 6 <hi>d.</hi>
+                  </item>
+                  <item>Woman's Malice, a New Novel, being a true Hiſtory of the Amours of an Eminent Perſon of Quality.</item>
+                  <item>Animadverſions on Mr. <hi>Congreve</hi>'s Anſwer to Mr. <hi>Collier,</hi> in a Dialogue between Mr. <hi>Smith</hi> and Mr. <hi>Johnſon;</hi> with the Characters of the Preſent Poets, and ſome Offers towards New-Modeling the Stage.</item>
+                  <item>A Brief and full Account of Mr. <hi>Tate's</hi> and Mr. <hi>Brady</hi>'s New Verſion of the Pſalms.</item>
+                  <item>The Certainty of a Future State, or, an Occaſional Letter concerning Apparitions. Written by <hi>J. Roe,</hi> M. A. and Chaplain to the Right Hono<g ref="char:EOLhyphen"/>rable the Earl of <hi>Burlington.</hi> The Second Editi<g ref="char:EOLhyphen"/>on, <hi>Price,</hi> 1 <hi>s.</hi>
+                  </item>
+                  <item>A Sermon at the Funeral of Mrs. <hi>Bullivant,</hi> who was barbarouſly Murder'd by <hi>Edmond Audley</hi> in St. <hi>Martin</hi>'s <hi>Le Grand.</hi> Preach'd in the Pariſh-Church of St. <hi>Michael Woodſtreet;</hi> By <hi>B. Crooke,</hi> Rector of the ſaid Pariſh.</item>
+                  <pb facs="tcp:51314:69"/>
+                  <item>A Sermon Preach'd at St. <hi>Bride</hi>'s Church, on Monday <hi>Nov.</hi> 22d, 1697. Being St. <hi>Caecilia</hi>'s Day, the Anniverſary Feaſt of the Lovers of Muſick.</item>
+                  <item>A Thanksgiving Sermon for the Peace, Preach'd at the Pariſh-Church of <hi>Richmond</hi> in <hi>Surrey, Dec.</hi> 22d, 1697.</item>
+                  <item>Theſe two by <hi>Nicholas Brady,</hi> A. M. Miniſter of <hi>Richmond,</hi> and Chaplain in Ordinary to his Majeſty.</item>
+                  <item>
+                     <hi>Now in the Preſs, and will ſpeedily be Publiſh'd by the ſame Author.</hi>
+                  </item>
+                  <item>A Sermon Preach'd on <hi>April</hi> the 5th, 1699. being the Faſt-Day.</item>
+                  <item>The <hi>New Pſalms</hi> ready Bound any manner of Way, by themſelves or with Common-Prayers. Sold by <hi>Joſeph Wild,</hi> at the <hi>Elephant</hi> at <hi>Charing-Croſs.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>MEſcellanea Sacra,</hi> Poems on Divine and Mo<g ref="char:EOLhyphen"/>ral Subjects. By <hi>N. Tate,</hi> and others: Prin<g ref="char:EOLhyphen"/>ted for <hi>H. Playford</hi> at the <hi>Temple-Change</hi> in <hi>Fleet-ſtreet.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
